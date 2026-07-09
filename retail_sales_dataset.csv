@@ -1,0 +1,1209 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Product Name,Quantity,Price per Unit,Total Amount,Region
+100000,2023-04-13,C2000,Female,60.0,Clothing,Denim Jeans,1,2937,2937,South
+100001,2024-03-11,C2001,Male,55.0,Clothing,Denim Jeans,1,2220,2220,North
+100002,2023-09-28,C2002,Female,47.0,Home & Kitchen,LED Table Lamp,1,2151,2151,North
+100003,2023-04-17,C2003,Female,18.0,Electronics,Power Bank,1,4110,4110,West
+100004,2023-03-13,C2004,Female,36.0,Beauty,Lipstick Set,2,1261,2522,South
+100005,2024-12-01,C2005,Female,36.0,Beauty,Sunscreen SPF50,1,972,972,North
+100006,2023-01-21,C2006,Female,49.0,Electronics,Power Bank,1,4252,4252,West
+100007,2024-09-06,C2007,Male,44.0,Beauty,Shampoo 500ml,1,1559,1559,North
+100008,2023-05-02,C2008,Female,44.0,Home & Kitchen,Ceramic Mug Set,1,3827,3827,West
+100009,2024-04-11,C2009,Female,33.0,Clothing,Denim Jeans,1,820,820,East
+100010,2023-08-03,C2010,Female,19.0,Electronics,Smartwatch,1,3341,3341,South
+100011,2023-11-27,C2011,Female,35.0,Electronics,Smartphone Case,1,11081,11081,South
+100012,2024-04-03,C2012,Male,51.0,Beauty,Face Moisturizer,1,737,737,East
+100013,2023-03-29,C2013,Male,51.0,Electronics,Power Bank,2,3828,7656,South
+100014,2024-01-08,C2014,Male,18.0,Electronics,USB-C Cable,3,12768,38304,South
+100015,2023-04-10,C2015,Female,40.0,Clothing,Winter Jacket,2,3154,6308,West
+100016,2024-10-25,C2016,Male,27.0,Clothing,Formal Shirt,1,3683,3683,South
+100017,2023-05-11,C2017,Male,35.0,Beauty,Lipstick Set,1,1674,1674,South
+100018,2024-10-23,C2018,Male,44.0,Clothing,Sneakers,2,2389,4778,West
+100019,2023-11-05,C2019,Female,27.0,Home & Kitchen,Non-stick Pan,1,4357,4357,West
+100020,2023-12-10,C2020,Female,48.0,Home & Kitchen,Ceramic Mug Set,2,2671,5342,North
+100021,2024-05-06,C2021,Male,45.0,Beauty,Lipstick Set,1,550,550,East
+100022,2024-02-18,C2022,Female,46.0,Groceries,Instant Noodles Pack,2,932,1864,West
+100023,2024-01-21,C2023,Female,33.0,Clothing,Women's Dress,1,3897,3897,North
+100024,2023-07-11,C2024,Male,31.0,Electronics,Smartphone Case,2,14282,28564,South
+100025,2023-10-04,C2025,Male,35.0,Beauty,Sunscreen SPF50,2,165,330,West
+100026,2023-06-10,C2026,Male,29.0,Clothing,Denim Jeans,2,2761,5522,West
+100027,2024-04-04,C2027,Male,20.0,Electronics,Smartwatch,1,14045,14045,North
+100028,2023-11-10,C2028,Male,37.0,Clothing,Winter Jacket,4,565,2260,East
+100029,2023-01-22,C2029,Male,18.0,Electronics,Power Bank,1,2833,2833,North
+100030,2023-09-10,C2030,Male,23.0,Electronics,Wireless Earbuds,3,3432,10296,West
+100031,2024-07-14,C2031,Female,30.0,Home & Kitchen,Ceramic Mug Set,1,1056,1056,West
+100032,2024-04-19,C2032,Male,46.0,Clothing,Sneakers,4,2911,11644,North
+100033,2023-02-28,C2033,Male,30.0,Home & Kitchen,LED Table Lamp,1,1074,1074,North
+100034,2024-05-25,C2034,Female,29.0,Home & Kitchen,Ceramic Mug Set,1,976,976,East
+100035,2024-11-12,C2035,Female,21.0,Home & Kitchen,Cotton Bedsheet Set,2,4319,8638,East
+100036,2024-04-20,C2036,Male,18.0,Electronics,USB-C Cable,1,12673,12673,South
+100037,2024-11-30,C2037,Male,26.0,Electronics,Smartphone Case,2,13608,27216,West
+100038,2023-07-09,C2038,Male,31.0,Home & Kitchen,LED Table Lamp,1,1224,1224,South
+100039,2024-11-17,C2039,Female,35.0,Groceries,Instant Noodles Pack,2,1022,2044,South
+100040,2024-07-16,C2040,Male,41.0,Clothing,Sneakers,3,1646,4938,North
+100041,2024-07-20,C2041,Female,54.0,Groceries,Green Tea Box,2,141,282,West
+100042,2023-09-01,C2042,Female,49.0,Home & Kitchen,Cotton Bedsheet Set,1,1966,1966,North
+100043,2024-05-19,C2043,Female,41.0,Groceries,Cooking Oil 1L,1,1104,1104,North
+100044,2023-05-11,C2044,Female,34.0,Clothing,Formal Shirt,3,2429,7287,North
+100045,2024-04-29,C2045,Female,48.0,Clothing,Formal Shirt,1,1556,1556,North
+100046,2024-10-08,C2046,Male,33.0,Beauty,Sunscreen SPF50,2,1499,2998,West
+100047,2023-01-21,C2047,Female,30.0,Clothing,Formal Shirt,2,577,1154,East
+100048,2023-06-16,C2048,Female,26.0,Electronics,Bluetooth Speaker,1,9909,9909,North
+100049,2023-10-01,C2049,Male,33.0,Home & Kitchen,Ceramic Mug Set,1,1012,1012,East
+100050,2024-01-23,C2050,Female,27.0,Electronics,Bluetooth Speaker,2,12991,25982,South
+100051,2024-08-23,C2051,Female,54.0,Groceries,Basmati Rice 5kg,1,88,88,West
+100052,2023-11-12,C2052,Female,31.0,Clothing,Women's Dress,2,3455,6910,West
+100053,2023-01-14,C2053,Male,21.0,Clothing,Denim Jeans,4,1982,7928,West
+100054,2023-08-30,C2054,Male,34.0,Clothing,Winter Jacket,2,3533,7066,South
+100055,2023-12-12,C2055,Male,31.0,Groceries,Green Tea Box,4,479,1916,North
+100056,2024-07-18,C2056,Female,36.0,Electronics,Bluetooth Speaker,2,7142,14284,West
+100057,2023-12-06,C2057,Male,41.0,Clothing,Formal Shirt,1,1559,1559,South
+100058,2023-04-02,C2058,Male,18.0,Electronics,USB-C Cable,1,5909,5909,West
+100059,2024-01-02,C2059,Male,55.0,Electronics,Power Bank,1,14431,14431,West
+100060,2024-03-30,C2060,Female,,Home & Kitchen,Cotton Bedsheet Set,2,2293,4586,North
+100061,2024-03-03,C2061,Female,27.0,Electronics,Wireless Earbuds,1,9583,9583,North
+100062,2024-05-23,C2062,Female,28.0,Clothing,Women's Dress,1,301,301,South
+100063,2023-02-04,C2063,Male,45.0,Groceries,Cooking Oil 1L,2,192,384,North
+100064,2023-07-25,C2064,Male,53.0,Electronics,Bluetooth Speaker,1,1434,1434,West
+100065,2023-03-22,C2065,Female,37.0,Home & Kitchen,Storage Organizer,1,500,500,East
+100066,2024-07-15,C2066,Female,,Beauty,Lipstick Set,2,1044,2088,North
+100067,2024-01-23,C2067,Female,36.0,Electronics,USB-C Cable,1,14412,14412,South
+100068,2023-01-02,C2068,Female,66.0,Clothing,Sneakers,1,2656,2656,East
+100069,2024-01-25,C2069,Male,,Electronics,Wireless Earbuds,1,11963,11963,East
+100070,2024-07-19,C2070,Female,44.0,Electronics,Wireless Earbuds,2,12880,25760,South
+100071,2023-04-16,C2071,Male,43.0,Clothing,Winter Jacket,2,1255,2510,West
+100072,2024-04-21,C2072,Female,48.0,Beauty,Perfume 100ml,1,1685,1685,East
+100073,2024-12-03,C2073,Female,38.0,Groceries,Cooking Oil 1L,3,579,1737,East
+100074,2024-02-06,C2074,Female,36.0,Electronics,USB-C Cable,3,14710,44130,South
+100075,2024-12-30,C2075,Male,18.0,Electronics,Wireless Earbuds,1,14939,14939,East
+100076,2024-07-09,C2076,Female,24.0,Beauty,Perfume 100ml,1,987,987,West
+100077,2023-06-11,C2077,Male,18.0,Electronics,Wireless Earbuds,2,13015,26030,North
+100078,2023-07-21,C2078,Male,55.0,Electronics,Smartphone Case,1,1069,1069,North
+100079,2023-09-27,C2079,Male,27.0,Clothing,Denim Jeans,3,2660,7980,North
+100080,2023-09-28,C2080,Female,28.0,Electronics,Power Bank,1,11204,11204,West
+100081,2024-03-31,C2081,Female,53.0,Beauty,Shampoo 500ml,1,1118,1118,West
+100082,2024-04-06,C2082,Male,36.0,Electronics,Bluetooth Speaker,1,12820,12820,East
+100083,2024-12-27,C2083,Female,24.0,Clothing,Women's Dress,4,425,1700,East
+100084,2023-09-09,C2084,Male,46.0,Groceries,Green Tea Box,1,200,200,North
+100085,2024-12-02,C2085,Female,22.0,Beauty,Lipstick Set,1,1164,1164,South
+100086,2023-10-23,C2086,Female,33.0,Groceries,Cooking Oil 1L,2,1192,2384,East
+100087,2024-12-25,C2087,Female,56.0,Groceries,Basmati Rice 5kg,1,394,394,East
+100088,2024-12-20,C2088,Female,23.0,Electronics,Smartwatch,1,14180,14180,East
+100089,2023-12-04,C2089,Female,29.0,Clothing,Men's T-Shirt,1,987,987,North
+100090,2023-02-22,C2090,Female,32.0,Clothing,Denim Jeans,2,3752,7504,West
+100091,2023-08-05,C2091,Female,42.0,Groceries,Green Tea Box,2,871,1742,South
+100092,2023-07-07,C2092,Male,,Beauty,Lipstick Set,1,1066,1066,South
+100093,2024-01-15,C2093,Male,46.0,Clothing,Formal Shirt,1,3214,3214,East
+100094,2024-05-07,C2094,Female,34.0,Home & Kitchen,Non-stick Pan,1,4115,4115,North
+100095,2023-02-10,C2095,Female,21.0,Clothing,Denim Jeans,2,1649,3298,East
+100096,2023-06-06,C2096,Female,20.0,Beauty,Sunscreen SPF50,1,1164,1164,North
+100097,2023-01-15,C2097,Female,50.0,Clothing,Denim Jeans,1,2216,2216,South
+100098,2023-03-06,C2098,Female,36.0,Beauty,Sunscreen SPF50,2,2488,4976,South
+100099,2024-06-04,C2099,Male,28.0,Groceries,Cooking Oil 1L,1,1181,1181,South
+100100,2023-12-10,C2100,Male,39.0,Home & Kitchen,Non-stick Pan,1,285,285,North
+100101,2023-05-09,C2101,Female,18.0,Electronics,Smartwatch,2,7669,15338,West
+100102,2024-10-09,C2102,Male,42.0,Beauty,Lipstick Set,1,2349,2349,South
+100103,2024-04-16,C2103,Female,26.0,Home & Kitchen,Storage Organizer,2,395,790,North
+100104,2023-03-04,C2104,Female,61.0,Clothing,Sneakers,1,782,782,North
+100105,2023-05-19,C2105,Female,18.0,Clothing,Denim Jeans,1,3531,3531,North
+100106,2024-05-13,C2106,Male,52.0,Beauty,Face Moisturizer,1,919,919,South
+100107,2024-08-15,C2107,Male,44.0,Clothing,Men's T-Shirt,2,1298,2596,West
+100108,2024-01-27,C2108,Male,46.0,Beauty,Lipstick Set,3,1155,3465,South
+100109,2024-11-05,C2109,Male,52.0,Clothing,Formal Shirt,1,1007,1007,West
+100110,2024-02-23,C2110,Male,52.0,Beauty,Perfume 100ml,1,2346,2346,North
+100111,2023-10-16,C2111,Male,43.0,Clothing,Formal Shirt,2,3074,6148,South
+100112,2024-01-14,C2112,Male,23.0,Groceries,Almonds 500g,1,502,502,South
+100113,2024-05-04,C2113,Male,40.0,Electronics,Wireless Earbuds,2,3883,7766,East
+100114,2023-08-19,C2114,Female,34.0,Home & Kitchen,Ceramic Mug Set,1,4975,4975,West
+100115,2023-02-10,C2115,Male,42.0,Beauty,Lipstick Set,2,949,1898,West
+100116,2023-01-28,C2116,Male,21.0,Home & Kitchen,LED Table Lamp,1,4826,4826,South
+100117,2023-05-15,C2117,Male,18.0,Electronics,Wireless Earbuds,1,6099,6099,West
+100118,2023-07-20,C2118,Female,29.0,Groceries,Green Tea Box,2,192,384,West
+100119,2023-02-02,C2119,Female,39.0,Electronics,Smartphone Case,1,12221,12221,West
+100120,2023-02-17,C2120,Male,39.0,Home & Kitchen,Storage Organizer,2,4744,9488,South
+100121,2024-05-17,C2121,Female,24.0,Groceries,Cooking Oil 1L,2,842,1684,South
+100122,2024-02-11,C2122,Female,37.0,Beauty,Face Moisturizer,1,971,971,West
+100123,2024-07-27,C2123,Male,32.0,Beauty,Lipstick Set,1,1113,1113,West
+100124,2024-12-28,C2124,Female,41.0,Beauty,Perfume 100ml,1,995,995,North
+100125,2023-04-09,C2125,Male,28.0,Electronics,Smartphone Case,2,7410,14820,East
+100126,2024-11-14,C2126,Female,18.0,Electronics,Wireless Earbuds,1,4650,4650,South
+100127,2024-12-26,C2127,Male,43.0,Electronics,Power Bank,1,13277,13277,North
+100128,2024-06-30,C2128,Male,25.0,Home & Kitchen,Non-stick Pan,1,1888,1888,North
+100129,2024-09-04,C2129,Female,26.0,Beauty,Lipstick Set,1,1747,1747,South
+100130,2024-04-06,C2130,Male,31.0,Beauty,Sunscreen SPF50,1,659,659,West
+100131,2024-10-04,C2131,Male,22.0,Beauty,Lipstick Set,1,1050,1050,North
+100132,2023-01-05,C2132,Male,18.0,Electronics,Power Bank,1,5068,5068,East
+100133,2023-08-06,C2133,Female,25.0,Clothing,Sneakers,1,2031,2031,North
+100134,2024-05-17,C2134,Female,39.0,Beauty,Shampoo 500ml,1,1609,1609,North
+100135,2024-02-02,C2135,Male,32.0,Electronics,Wireless Earbuds,3,1371,4113,South
+100136,2024-01-28,C2136,Female,23.0,Groceries,Almonds 500g,2,764,1528,North
+100137,2023-07-26,C2137,Female,18.0,Groceries,Instant Noodles Pack,1,989,989,East
+100138,2023-01-15,C2138,Male,19.0,Electronics,Wireless Earbuds,2,4256,8512,South
+100139,2024-07-07,C2139,Male,23.0,Home & Kitchen,Cotton Bedsheet Set,1,3812,3812,South
+100140,2024-04-05,C2140,Female,26.0,Home & Kitchen,LED Table Lamp,1,3541,3541,West
+100141,2024-11-21,C2141,Male,41.0,Beauty,Shampoo 500ml,1,1763,1763,West
+100142,2024-07-28,C2142,Female,33.0,Clothing,Women's Dress,1,951,951,West
+100143,2023-08-29,C2143,Male,22.0,Beauty,Perfume 100ml,1,671,671,West
+100144,2024-07-17,C2144,Male,40.0,Electronics,Wireless Earbuds,1,5741,5741,North
+100145,2023-04-06,C2145,Female,35.0,Electronics,Bluetooth Speaker,2,7831,15662,East
+100146,2024-04-29,C2146,Male,31.0,Clothing,Men's T-Shirt,1,3290,3290,West
+100147,2024-02-11,C2147,Female,51.0,Home & Kitchen,Storage Organizer,1,4601,4601,West
+100148,2023-08-19,C2148,Male,42.0,Groceries,Instant Noodles Pack,2,819,1638,North
+100149,2024-10-16,C2149,Female,40.0,Clothing,Winter Jacket,2,2768,5536,South
+100150,2023-06-20,C2150,Female,48.0,Clothing,Denim Jeans,1,1353,1353,North
+100151,2024-06-24,C2151,Female,41.0,Clothing,Men's T-Shirt,2,814,1628,North
+100152,2023-02-05,C2152,Female,41.0,Clothing,Women's Dress,2,2820,5640,North
+100153,2024-06-08,C2153,Male,49.0,Clothing,Sneakers,1,3279,3279,East
+100154,2023-06-09,C2154,Female,18.0,Electronics,Wireless Earbuds,1,14744,14744,North
+100155,2024-11-29,C2155,Male,21.0,Clothing,Denim Jeans,4,2479,9916,East
+100156,2023-08-31,C2156,Male,29.0,Home & Kitchen,Cotton Bedsheet Set,1,2273,2273,South
+100157,2023-03-27,C2157,Male,21.0,Groceries,Instant Noodles Pack,1,385,385,East
+100158,2024-07-31,C2158,Female,24.0,Electronics,Smartphone Case,1,12251,12251,North
+100159,2024-11-12,C2159,Female,,Clothing,Formal Shirt,4,1440,5760,South
+100160,2024-07-10,C2160,Male,33.0,Clothing,Winter Jacket,1,2460,2460,East
+100161,2024-07-27,C2161,Male,32.0,Home & Kitchen,Cotton Bedsheet Set,2,2086,4172,East
+100162,2024-10-07,C2162,Female,47.0,Clothing,Denim Jeans,2,1882,3764,East
+100163,2023-01-28,C2163,Male,18.0,Electronics,Power Bank,4,14882,59528,North
+100164,2024-09-11,C2164,Female,27.0,Home & Kitchen,Ceramic Mug Set,2,2150,4300,South
+100165,2024-07-09,C2165,Female,19.0,Clothing,Sneakers,1,2608,2608,East
+100166,2023-12-06,C2166,Female,27.0,Electronics,Smartphone Case,3,3639,10917,East
+100167,2023-11-27,C2167,Male,39.0,Electronics,USB-C Cable,2,13635,27270,South
+100168,2024-10-01,C2168,Male,22.0,Electronics,Smartwatch,1,962,962,West
+100169,2024-05-20,C2169,Male,18.0,Electronics,Wireless Earbuds,1,10711,10711,East
+100170,2023-12-14,C2170,Male,36.0,Beauty,Sunscreen SPF50,1,2160,2160,East
+100171,2024-04-17,C2171,Female,34.0,Groceries,Cooking Oil 1L,2,945,1890,South
+100172,2023-08-19,C2172,Male,37.0,Groceries,Instant Noodles Pack,2,1033,2066,West
+100173,2023-07-09,C2173,Male,32.0,Electronics,Wireless Earbuds,1,8675,8675,North
+100174,2023-08-13,C2174,Female,30.0,Home & Kitchen,Non-stick Pan,1,822,822,East
+100175,2024-01-20,C2175,Male,35.0,Beauty,Lipstick Set,1,1002,1002,East
+100176,2024-01-12,C2176,Male,24.0,Electronics,Smartphone Case,1,14991,14991,West
+100177,2023-10-10,C2177,Female,45.0,Electronics,Bluetooth Speaker,1,2527,2527,South
+100178,2024-09-24,C2178,Female,37.0,Clothing,Sneakers,1,2730,2730,North
+100179,2024-09-19,C2179,Female,24.0,Electronics,Power Bank,1,2905,2905,South
+100180,2023-09-16,C2180,Female,37.0,Beauty,Shampoo 500ml,3,1727,5181,West
+100181,2023-12-25,C2181,Male,25.0,Clothing,Denim Jeans,1,1078,1078,South
+100182,2024-12-10,C2182,Female,29.0,Clothing,Winter Jacket,2,784,1568,West
+100183,2024-03-31,C2183,Female,48.0,Beauty,Lipstick Set,1,997,997,West
+100184,2024-02-15,C2184,Male,48.0,Electronics,Smartwatch,1,4000,4000,West
+100185,2024-10-10,C2185,Female,25.0,Clothing,Formal Shirt,1,2081,2081,North
+100186,2023-11-14,C2186,Male,23.0,Home & Kitchen,Non-stick Pan,1,2160,2160,West
+100187,2024-11-07,C2187,Female,46.0,Groceries,Green Tea Box,1,180,180,East
+100188,2023-08-13,C2188,Female,53.0,Groceries,Instant Noodles Pack,4,314,1256,South
+100189,2023-08-22,C2189,Male,37.0,Clothing,Winter Jacket,1,3072,3072,West
+100190,2024-11-14,C2190,Female,31.0,Groceries,Cooking Oil 1L,1,205,205,North
+100191,2024-10-25,C2191,Male,29.0,Clothing,Women's Dress,2,3300,6600,East
+100192,2024-01-09,C2192,Male,28.0,Home & Kitchen,Storage Organizer,1,1180,1180,South
+100193,2024-11-02,C2193,Female,37.0,Electronics,Smartwatch,2,13211,26422,North
+100194,2024-08-30,C2194,Male,27.0,Electronics,Bluetooth Speaker,2,6840,13680,East
+100195,2024-04-16,C2195,Male,31.0,Clothing,Winter Jacket,3,759,2277,West
+100196,2023-08-21,C2196,Female,,Electronics,Smartphone Case,2,5541,11082,South
+100197,2024-11-22,C2197,Male,35.0,Clothing,Winter Jacket,1,3049,3049,West
+100198,2023-04-23,C2198,Female,31.0,Electronics,USB-C Cable,1,1223,1223,West
+100199,2024-05-11,C2199,Female,38.0,Clothing,Denim Jeans,2,1598,3196,North
+100200,2024-03-17,C2200,Male,38.0,Groceries,Basmati Rice 5kg,1,682,682,North
+100201,2024-07-17,C2201,Female,54.0,Electronics,Wireless Earbuds,1,14765,14765,South
+100202,2023-09-25,C2202,Female,30.0,Clothing,Formal Shirt,1,367,367,South
+100203,2024-05-24,C2203,Male,42.0,Groceries,Instant Noodles Pack,2,481,962,East
+100204,2024-01-21,C2204,Male,37.0,Groceries,Cooking Oil 1L,1,710,710,North
+100205,2024-01-22,C2205,Female,46.0,Electronics,Power Bank,1,10050,10050,West
+100206,2023-04-23,C2206,Male,50.0,Beauty,Sunscreen SPF50,2,1597,3194,East
+100207,2024-09-04,C2207,Female,30.0,Groceries,Instant Noodles Pack,1,582,582,East
+100208,2024-09-16,C2208,Male,31.0,Home & Kitchen,Storage Organizer,2,2645,5290,East
+100209,2023-03-22,C2209,Male,18.0,Groceries,Cooking Oil 1L,1,1160,1160,West
+100210,2024-11-29,C2210,Female,31.0,Electronics,Power Bank,1,9721,9721,South
+100211,2023-04-23,C2211,Male,18.0,Clothing,Denim Jeans,1,1614,1614,South
+100212,2023-01-02,C2212,Male,37.0,Beauty,Sunscreen SPF50,1,1475,1475,South
+100213,2024-10-03,C2213,Male,37.0,Clothing,Sneakers,1,617,617,North
+100214,2023-08-08,C2214,Female,36.0,Electronics,Power Bank,1,1655,1655,North
+100215,2024-07-19,C2215,Male,44.0,Beauty,Shampoo 500ml,1,2324,2324,South
+100216,2023-08-13,C2216,Female,18.0,Clothing,Winter Jacket,2,3304,6608,West
+100217,2024-01-20,C2217,Male,43.0,Groceries,Cooking Oil 1L,2,908,1816,East
+100218,2024-02-07,C2218,Female,40.0,Home & Kitchen,Non-stick Pan,1,4283,4283,North
+100219,2024-09-29,C2219,Male,45.0,Beauty,Perfume 100ml,3,481,1443,South
+100220,2023-05-10,C2220,Female,34.0,Groceries,Instant Noodles Pack,2,499,998,North
+100221,2023-02-22,C2221,Male,62.0,Electronics,USB-C Cable,1,11493,11493,West
+100222,2024-11-14,C2222,Female,18.0,Electronics,Smartwatch,1,14192,14192,North
+100223,2024-12-30,C2223,Male,51.0,Clothing,Sneakers,1,348,348,South
+100224,2024-11-02,C2224,Male,20.0,Home & Kitchen,Storage Organizer,1,1380,1380,South
+100225,2024-12-10,C2225,Female,44.0,Home & Kitchen,Storage Organizer,1,2073,2073,West
+100226,2024-02-20,C2226,Female,23.0,Groceries,Green Tea Box,1,1191,1191,North
+100227,2023-09-04,C2227,Male,50.0,Clothing,Winter Jacket,1,1132,1132,North
+100228,2024-03-14,C2228,Male,32.0,Electronics,USB-C Cable,1,2242,2242,South
+100229,2023-07-22,C2229,Female,26.0,Beauty,Sunscreen SPF50,1,1613,1613,South
+100230,2023-07-03,C2230,Female,21.0,Home & Kitchen,Ceramic Mug Set,4,1649,6596,North
+100231,2023-05-03,C2231,Male,35.0,Electronics,Bluetooth Speaker,1,10249,10249,South
+100232,2024-02-05,C2232,Female,18.0,Electronics,Power Bank,1,7428,7428,South
+100233,2023-10-21,C2233,Male,18.0,Clothing,Women's Dress,2,2716,5432,East
+100234,2023-10-07,C2234,Female,33.0,Electronics,Wireless Earbuds,1,7951,7951,South
+100235,2024-09-01,C2235,Male,38.0,Electronics,Power Bank,2,1746,3492,West
+100236,2023-07-17,C2236,Female,40.0,Home & Kitchen,LED Table Lamp,1,3239,3239,South
+100237,2024-05-25,C2237,Female,28.0,Electronics,Power Bank,1,10126,10126,North
+100238,2023-05-24,C2238,Male,31.0,Home & Kitchen,Cotton Bedsheet Set,2,2401,4802,East
+100239,2024-08-31,C2239,Female,49.0,Electronics,Power Bank,1,11203,11203,North
+100240,2023-07-20,C2240,Male,26.0,Beauty,Lipstick Set,2,1858,3716,East
+100241,2023-05-04,C2241,Female,34.0,Clothing,Women's Dress,3,3900,11700,South
+100242,2023-07-06,C2242,Male,69.0,Electronics,USB-C Cable,2,7966,15932,East
+100243,2023-11-22,C2243,Male,20.0,Clothing,Denim Jeans,1,3108,3108,East
+100244,2024-04-08,C2244,Female,35.0,Groceries,Green Tea Box,1,821,821,North
+100245,2023-12-15,C2245,Male,33.0,Electronics,Wireless Earbuds,2,4735,9470,South
+100246,2024-10-21,C2246,Male,43.0,Electronics,Power Bank,1,8461,8461,West
+100247,2024-02-07,C2247,Female,42.0,Electronics,Bluetooth Speaker,2,6729,13458,East
+100248,2023-12-12,C2248,Female,32.0,Home & Kitchen,Non-stick Pan,1,945,945,East
+100249,2024-05-25,C2249,Female,30.0,Electronics,Power Bank,2,8868,17736,West
+100250,2023-05-27,C2250,Male,23.0,Groceries,Green Tea Box,1,1177,1177,East
+100251,2023-05-28,C2251,Female,44.0,Electronics,Bluetooth Speaker,1,8738,8738,East
+100252,2024-12-11,C2252,Male,34.0,Home & Kitchen,Ceramic Mug Set,3,607,1821,West
+100253,2024-05-03,C2253,Male,25.0,Home & Kitchen,Storage Organizer,1,1747,1747,South
+100254,2024-10-01,C2254,Male,46.0,Electronics,Bluetooth Speaker,2,9965,19930,South
+100255,2024-07-04,C2255,Male,37.0,Electronics,Power Bank,1,14164,14164,East
+100256,2023-12-04,C2256,Female,36.0,Electronics,Smartwatch,1,8451,8451,North
+100257,2024-10-02,C2257,Male,28.0,Home & Kitchen,Storage Organizer,1,2557,2557,East
+100258,2024-04-17,C2258,Female,27.0,Electronics,Smartwatch,2,8727,17454,South
+100259,2023-05-31,C2259,Male,34.0,Home & Kitchen,LED Table Lamp,1,2687,2687,East
+100260,2024-02-19,C2260,Male,28.0,Clothing,Denim Jeans,2,1942,3884,West
+100261,2023-10-25,C2261,Male,43.0,Groceries,Instant Noodles Pack,1,247,247,West
+100262,2024-09-02,C2262,Male,49.0,Electronics,Smartphone Case,1,2748,2748,North
+100263,2023-09-20,C2263,Female,44.0,Electronics,Power Bank,2,14212,28424,East
+100264,2023-05-24,C2264,Female,33.0,Groceries,Basmati Rice 5kg,1,582,582,South
+100265,2023-12-12,C2265,Male,23.0,Groceries,Green Tea Box,1,276,276,North
+100266,2024-09-15,C2266,Female,44.0,Home & Kitchen,LED Table Lamp,1,2328,2328,East
+100267,2024-07-25,C2267,Male,30.0,Beauty,Perfume 100ml,2,1346,2692,South
+100268,2023-01-02,C2268,Female,35.0,Groceries,Almonds 500g,2,1101,2202,South
+100269,2023-10-31,C2269,Female,30.0,Beauty,Sunscreen SPF50,1,2424,2424,West
+100270,2023-09-11,C2270,Female,37.0,Home & Kitchen,Ceramic Mug Set,1,2350,2350,West
+100271,2024-10-13,C2271,Male,31.0,Home & Kitchen,LED Table Lamp,1,636,636,South
+100272,2024-03-28,C2272,Male,49.0,Beauty,Sunscreen SPF50,1,889,889,South
+100273,2023-02-06,C2273,Female,27.0,Electronics,Wireless Earbuds,1,3545,3545,East
+100274,2023-06-09,C2274,Male,35.0,Electronics,Smartwatch,1,14532,14532,South
+100275,2023-01-09,C2275,Female,51.0,Clothing,Denim Jeans,2,1272,2544,West
+100276,2023-08-21,C2276,Female,18.0,Electronics,Bluetooth Speaker,2,12022,24044,South
+100277,2023-04-09,C2277,Female,23.0,Electronics,Wireless Earbuds,3,6145,18435,East
+100278,2024-10-20,C2278,Female,39.0,Clothing,Women's Dress,1,1427,1427,North
+100279,2023-07-27,C2279,Male,34.0,Clothing,Denim Jeans,2,3570,7140,East
+100280,2023-05-11,C2280,Female,19.0,Home & Kitchen,Ceramic Mug Set,1,710,710,East
+100281,2024-02-08,C2281,Male,51.0,Electronics,Wireless Earbuds,3,12165,36495,South
+100282,2023-06-01,C2282,Male,22.0,Groceries,Basmati Rice 5kg,2,843,1686,West
+100283,2023-02-23,C2283,Male,32.0,Beauty,Sunscreen SPF50,3,1731,5193,South
+100284,2023-04-30,C2284,Male,18.0,Home & Kitchen,LED Table Lamp,1,2599,2599,North
+100285,2024-11-03,C2285,Male,31.0,Home & Kitchen,Cotton Bedsheet Set,2,1796,3592,East
+100286,2024-09-19,C2286,Female,34.0,Electronics,USB-C Cable,3,3543,10629,North
+100287,2024-08-09,C2287,Female,37.0,Clothing,Denim Jeans,1,1169,1169,West
+100288,2024-09-16,C2288,Female,39.0,Electronics,Bluetooth Speaker,2,12417,24834,West
+100289,2024-02-24,C2289,Male,32.0,Clothing,Women's Dress,1,3723,3723,North
+100290,2024-02-26,C2290,Female,37.0,Clothing,Men's T-Shirt,1,3971,3971,West
+100291,2023-04-14,C2291,Female,45.0,Home & Kitchen,Storage Organizer,3,4259,12777,North
+100292,2023-09-11,C2292,Male,29.0,Home & Kitchen,LED Table Lamp,1,1193,1193,South
+100293,2023-08-15,C2293,Male,33.0,Beauty,Lipstick Set,3,1611,4833,West
+100294,2023-04-22,C2294,Male,18.0,Groceries,Basmati Rice 5kg,2,1029,2058,East
+100295,2024-05-24,C2295,Male,29.0,Groceries,Instant Noodles Pack,1,1164,1164,West
+100296,2024-04-17,C2296,Male,36.0,Groceries,Cooking Oil 1L,3,364,1092,South
+100297,2023-04-09,C2297,Female,31.0,Groceries,Instant Noodles Pack,2,873,1746,South
+100298,2023-06-02,C2298,Female,31.0,Home & Kitchen,Cotton Bedsheet Set,1,2288,2288,West
+100299,2023-12-04,C2299,Male,44.0,Clothing,Women's Dress,1,520,520,South
+100300,2024-12-06,C2300,Male,34.0,Beauty,Perfume 100ml,1,624,624,South
+100301,2023-06-12,C2301,Male,41.0,Home & Kitchen,Ceramic Mug Set,2,3857,7714,West
+100302,2024-12-20,C2302,Male,32.0,Clothing,Men's T-Shirt,1,3619,3619,South
+100303,2024-11-11,C2303,Male,41.0,Beauty,Sunscreen SPF50,1,1499,1499,West
+100304,2023-06-10,C2304,Male,47.0,Electronics,Smartwatch,1,5107,5107,West
+100305,2024-08-02,C2305,Female,43.0,Clothing,Women's Dress,2,1168,2336,West
+100306,2024-02-02,C2306,Female,50.0,Electronics,Smartwatch,1,8014,8014,East
+100307,2023-10-04,C2307,Male,18.0,Electronics,Smartphone Case,2,5338,10676,South
+100308,2024-05-18,C2308,Female,45.0,Electronics,Smartphone Case,1,3632,3632,East
+100309,2024-01-27,C2309,Male,23.0,Electronics,Wireless Earbuds,2,3410,6820,West
+100310,2023-05-15,C2310,Female,41.0,Home & Kitchen,Cotton Bedsheet Set,2,1256,2512,South
+100311,2023-07-14,C2311,Male,38.0,Home & Kitchen,Ceramic Mug Set,1,4927,4927,West
+100312,2024-02-05,C2312,Male,18.0,Home & Kitchen,Non-stick Pan,2,424,848,South
+100313,2024-10-01,C2313,Female,39.0,Clothing,Winter Jacket,1,1150,1150,North
+100314,2023-02-02,C2314,Female,37.0,Home & Kitchen,Non-stick Pan,4,3636,14544,South
+100315,2024-11-18,C2315,Male,54.0,Clothing,Sneakers,2,689,1378,West
+100316,2024-04-04,C2316,Female,45.0,Home & Kitchen,Cotton Bedsheet Set,1,1731,1731,South
+100317,2024-04-14,C2317,Male,50.0,Home & Kitchen,Non-stick Pan,2,2816,5632,West
+100318,2024-01-10,C2318,Female,34.0,Home & Kitchen,Cotton Bedsheet Set,1,4845,4845,South
+100319,2023-01-22,C2319,Male,26.0,Clothing,Denim Jeans,1,3249,3249,East
+100320,2024-10-31,C2320,Male,53.0,Clothing,Formal Shirt,1,3404,3404,South
+100321,2023-02-07,C2321,Female,26.0,Electronics,USB-C Cable,4,14195,56780,East
+100322,2023-08-18,C2322,Male,23.0,Electronics,Bluetooth Speaker,2,8444,16888,South
+100323,2023-12-31,C2323,Male,23.0,Groceries,Cooking Oil 1L,1,251,251,West
+100324,2024-07-16,C2324,Female,35.0,Electronics,Smartwatch,1,12537,12537,North
+100325,2024-03-13,C2325,Female,18.0,Beauty,Lipstick Set,1,357,357,South
+100326,2023-10-10,C2326,Male,53.0,Home & Kitchen,LED Table Lamp,1,3616,3616,South
+100327,2023-01-27,C2327,Female,27.0,Electronics,Smartphone Case,1,3649,3649,South
+100328,2023-08-14,C2328,Female,18.0,Beauty,Face Moisturizer,2,709,1418,North
+100329,2023-10-04,C2329,Female,35.0,Electronics,Bluetooth Speaker,1,7209,7209,North
+100330,2024-08-31,C2330,Female,24.0,Groceries,Instant Noodles Pack,1,917,917,North
+100331,2023-10-11,C2331,Female,52.0,Beauty,Face Moisturizer,1,232,232,South
+100332,2024-04-25,C2332,Female,52.0,Home & Kitchen,LED Table Lamp,2,425,850,South
+100333,2024-03-28,C2333,Male,33.0,Groceries,Instant Noodles Pack,3,416,1248,South
+100334,2024-10-20,C2334,Female,19.0,Home & Kitchen,LED Table Lamp,4,1109,4436,East
+100335,2024-05-30,C2335,Female,41.0,Electronics,Wireless Earbuds,2,1934,3868,North
+100336,2024-06-30,C2336,Male,33.0,Electronics,Wireless Earbuds,1,3146,3146,East
+100337,2023-07-11,C2337,Female,26.0,Beauty,Shampoo 500ml,1,1779,1779,West
+100338,2023-02-18,C2338,Female,39.0,Home & Kitchen,Cotton Bedsheet Set,1,2616,2616,East
+100339,2024-05-26,C2339,Female,20.0,Home & Kitchen,Cotton Bedsheet Set,2,2806,5612,South
+100340,2023-01-17,C2340,Female,31.0,Electronics,USB-C Cable,3,11588,34764,East
+100341,2023-06-21,C2341,Male,49.0,Electronics,USB-C Cable,2,1479,2958,East
+100342,2023-08-08,C2342,Male,29.0,Groceries,Almonds 500g,1,112,112,South
+100343,2023-06-07,C2343,Female,33.0,Clothing,Sneakers,1,2435,2435,North
+100344,2024-04-21,C2344,Male,39.0,Home & Kitchen,LED Table Lamp,1,1887,1887,West
+100345,2023-02-15,C2345,Male,22.0,Home & Kitchen,Storage Organizer,1,4414,4414,West
+100346,2024-01-08,C2346,Female,28.0,Clothing,Women's Dress,1,576,576,West
+100347,2024-06-01,C2347,Female,40.0,Home & Kitchen,LED Table Lamp,1,4659,4659,West
+100348,2023-04-09,C2348,Female,38.0,Electronics,Wireless Earbuds,1,11148,11148,East
+100349,2023-02-06,C2349,Female,30.0,Home & Kitchen,Cotton Bedsheet Set,1,3192,3192,North
+100350,2023-10-07,C2350,Female,51.0,Beauty,Sunscreen SPF50,2,644,1288,West
+100351,2023-12-15,C2351,Female,28.0,Beauty,Perfume 100ml,1,811,811,South
+100352,2024-05-11,C2352,Male,31.0,Clothing,Women's Dress,2,933,1866,South
+100353,2023-10-29,C2353,Female,30.0,Beauty,Shampoo 500ml,1,561,561,West
+100354,2023-06-30,C2354,Female,50.0,Clothing,Men's T-Shirt,1,318,318,North
+100355,2024-08-29,C2355,Male,28.0,Clothing,Sneakers,2,3277,6554,West
+100356,2023-04-09,C2356,Male,34.0,Home & Kitchen,Ceramic Mug Set,1,3222,3222,North
+100357,2024-11-30,C2357,Female,38.0,Home & Kitchen,Cotton Bedsheet Set,1,1066,1066,East
+100358,2023-04-26,C2358,Male,31.0,Beauty,Shampoo 500ml,1,1938,1938,East
+100359,2023-07-10,C2359,Female,38.0,Groceries,Almonds 500g,2,1166,2332,West
+100360,2023-09-10,C2360,Male,37.0,Clothing,Denim Jeans,1,1522,1522,West
+100361,2023-06-10,C2361,Female,30.0,Clothing,Sneakers,1,2404,2404,West
+100362,2023-09-13,C2362,Female,27.0,Electronics,Smartwatch,1,11790,11790,South
+100363,2023-11-19,C2363,Male,36.0,Home & Kitchen,Storage Organizer,4,884,3536,South
+100364,2023-05-08,C2364,Male,29.0,Electronics,Smartwatch,1,11613,11613,South
+100365,2023-01-18,C2365,Male,32.0,Groceries,Green Tea Box,2,610,1220,East
+100366,2024-07-19,C2366,Female,18.0,Electronics,Wireless Earbuds,1,1049,1049,East
+100367,2024-07-23,C2367,Female,37.0,Home & Kitchen,Cotton Bedsheet Set,2,293,586,North
+100368,2023-11-19,C2368,Female,39.0,Electronics,USB-C Cable,1,12505,12505,East
+100369,2024-11-16,C2369,Male,49.0,Groceries,Instant Noodles Pack,1,987,987,South
+100370,2024-09-17,C2370,Female,,Home & Kitchen,Cotton Bedsheet Set,1,1204,1204,East
+100371,2023-10-15,C2371,Female,41.0,Beauty,Lipstick Set,2,520,1040,East
+100372,2024-10-24,C2372,Female,35.0,Home & Kitchen,Non-stick Pan,1,2975,2975,West
+100373,2024-09-30,C2373,Female,18.0,Clothing,Formal Shirt,1,3215,3215,North
+100374,2023-06-04,C2374,Male,36.0,Home & Kitchen,Storage Organizer,1,3184,3184,South
+100375,2024-05-04,C2375,Male,28.0,Clothing,Men's T-Shirt,1,2881,2881,West
+100376,2024-01-21,C2376,Female,41.0,Electronics,Power Bank,1,2637,2637,West
+100377,2023-04-14,C2377,Female,30.0,Clothing,Sneakers,1,376,376,West
+100378,2024-01-28,C2378,Male,42.0,Electronics,Smartwatch,2,6469,12938,West
+100379,2023-09-03,C2379,Male,40.0,Groceries,Green Tea Box,1,302,302,West
+100380,2023-06-25,C2380,Female,40.0,Groceries,Instant Noodles Pack,2,557,1114,East
+100381,2023-02-08,C2381,Female,48.0,Electronics,Bluetooth Speaker,1,9506,9506,West
+100382,2024-04-21,C2382,Female,53.0,Beauty,Face Moisturizer,1,1714,1714,South
+100383,2024-11-12,C2383,Female,28.0,Electronics,Bluetooth Speaker,2,1450,2900,South
+100384,2024-06-21,C2384,Female,46.0,Beauty,Shampoo 500ml,1,1834,1834,East
+100385,2024-02-12,C2385,Female,40.0,Beauty,Shampoo 500ml,3,2386,7158,East
+100386,2024-06-08,C2386,Female,45.0,Clothing,Denim Jeans,1,3714,3714,South
+100387,2024-05-20,C2387,Female,48.0,Electronics,USB-C Cable,1,1415,1415,South
+100388,2023-02-05,C2388,Female,51.0,Beauty,Sunscreen SPF50,3,583,1749,West
+100389,2024-11-15,C2389,Male,43.0,Home & Kitchen,Cotton Bedsheet Set,1,339,339,North
+100390,2023-01-20,C2390,Female,28.0,Beauty,Lipstick Set,3,1760,5280,North
+100391,2023-11-17,C2391,Female,32.0,Clothing,Formal Shirt,3,2687,8061,West
+100392,2024-05-26,C2392,Male,24.0,Beauty,Sunscreen SPF50,4,1101,4404,West
+100393,2024-02-04,C2393,Female,44.0,Groceries,Almonds 500g,1,514,514,West
+100394,2024-10-15,C2394,Male,18.0,Clothing,Sneakers,1,2623,2623,East
+100395,2024-04-15,C2395,Male,20.0,Groceries,Instant Noodles Pack,1,1171,1171,North
+100396,2023-05-23,C2396,Male,31.0,Electronics,USB-C Cable,1,3575,3575,West
+100397,2023-04-02,C2397,Male,31.0,Home & Kitchen,Storage Organizer,1,4705,4705,East
+100398,2023-12-20,C2398,Male,28.0,Electronics,USB-C Cable,2,12603,25206,North
+100399,2024-12-27,C2399,Female,35.0,Home & Kitchen,LED Table Lamp,1,2680,2680,South
+100400,2023-02-20,C2400,Male,50.0,Electronics,Bluetooth Speaker,1,11135,11135,South
+100401,2024-10-26,C2401,Female,32.0,Clothing,Winter Jacket,1,1769,1769,South
+100402,2024-11-28,C2402,Male,21.0,Groceries,Cooking Oil 1L,2,155,310,South
+100403,2024-07-28,C2403,Male,28.0,Beauty,Perfume 100ml,2,1572,3144,North
+100404,2023-07-09,C2404,Female,34.0,Electronics,Power Bank,4,3240,12960,South
+100405,2023-05-05,C2405,Female,30.0,Beauty,Perfume 100ml,1,1384,1384,North
+100406,2023-05-30,C2406,Female,53.0,Home & Kitchen,Storage Organizer,1,3127,3127,South
+100407,2023-11-10,C2407,Male,34.0,Groceries,Almonds 500g,4,1145,4580,East
+100408,2024-07-23,C2408,Male,27.0,Electronics,Smartwatch,2,852,1704,West
+100409,2023-12-08,C2409,Female,28.0,Clothing,Sneakers,1,2594,2594,North
+100410,2023-11-01,C2410,Male,46.0,Clothing,Denim Jeans,3,2091,6273,West
+100411,2024-11-22,C2411,Male,36.0,Electronics,Wireless Earbuds,1,11326,11326,West
+100412,2024-11-12,C2412,Female,32.0,Electronics,Smartwatch,2,11678,23356,North
+100413,2023-02-23,C2413,Male,28.0,Electronics,Wireless Earbuds,1,3929,3929,West
+100414,2024-03-19,C2414,Female,43.0,Groceries,Green Tea Box,1,748,748,East
+100415,2024-09-04,C2415,Male,50.0,Clothing,Formal Shirt,4,2955,11820,East
+100416,2023-09-21,C2416,Male,20.0,Clothing,Denim Jeans,1,3008,3008,East
+100417,2023-02-22,C2417,Female,41.0,Clothing,Winter Jacket,1,2818,2818,South
+100418,2024-07-25,C2418,Female,25.0,Home & Kitchen,Non-stick Pan,2,3322,6644,South
+100419,2024-09-11,C2419,Male,41.0,Clothing,Sneakers,1,1252,1252,West
+100420,2023-01-05,C2420,Female,37.0,Home & Kitchen,Cotton Bedsheet Set,2,1132,2264,North
+100421,2023-04-13,C2421,Male,29.0,Beauty,Sunscreen SPF50,2,1741,3482,North
+100422,2023-07-15,C2422,Male,18.0,Electronics,Bluetooth Speaker,1,10248,10248,South
+100423,2023-12-16,C2423,Female,26.0,Clothing,Denim Jeans,1,2342,2342,East
+100424,2023-02-16,C2424,Female,24.0,Clothing,Women's Dress,1,592,592,South
+100425,2024-10-17,C2425,Female,44.0,Groceries,Almonds 500g,2,1026,2052,East
+100426,2023-09-26,C2426,Male,44.0,Groceries,Cooking Oil 1L,1,845,845,West
+100427,2024-01-05,C2427,Male,28.0,Electronics,Smartphone Case,3,12555,37665,North
+100428,2024-09-27,C2428,Male,19.0,Home & Kitchen,Ceramic Mug Set,1,1523,1523,North
+100429,2023-04-16,C2429,Female,43.0,Clothing,Denim Jeans,2,2811,5622,South
+100430,2024-10-31,C2430,Female,47.0,Groceries,Almonds 500g,1,211,211,South
+100431,2024-10-20,C2431,Male,26.0,Clothing,Men's T-Shirt,1,1901,1901,South
+100432,2024-10-18,C2432,Female,18.0,Clothing,Men's T-Shirt,2,1792,3584,South
+100433,2023-04-30,C2433,Male,36.0,Clothing,Winter Jacket,2,3396,6792,North
+100434,2024-08-26,C2434,Male,23.0,Beauty,Face Moisturizer,1,1476,1476,West
+100435,2023-02-27,C2435,Male,36.0,Beauty,Shampoo 500ml,1,2335,2335,North
+100436,2023-12-12,C2436,Male,25.0,Home & Kitchen,Ceramic Mug Set,2,3558,7116,East
+100437,2024-04-18,C2437,Female,31.0,Electronics,Bluetooth Speaker,1,8416,8416,East
+100438,2023-04-27,C2438,Female,37.0,Groceries,Almonds 500g,1,766,766,West
+100439,2023-05-07,C2439,Male,32.0,Groceries,Basmati Rice 5kg,1,747,747,South
+100440,2024-01-28,C2440,Male,40.0,Electronics,USB-C Cable,1,1696,1696,North
+100441,2024-10-02,C2441,Male,19.0,Beauty,Lipstick Set,2,1382,2764,West
+100442,2023-02-27,C2442,Male,29.0,Home & Kitchen,Non-stick Pan,1,2899,2899,West
+100443,2024-09-25,C2443,Male,45.0,Beauty,Sunscreen SPF50,1,418,418,South
+100444,2024-05-27,C2444,Female,33.0,Groceries,Instant Noodles Pack,3,456,1368,South
+100445,2023-04-06,C2445,Female,28.0,Electronics,Smartphone Case,4,7728,30912,West
+100446,2024-09-29,C2446,Female,34.0,Electronics,USB-C Cable,1,13106,13106,East
+100447,2023-04-28,C2447,Male,32.0,Electronics,Bluetooth Speaker,1,13519,13519,South
+100448,2024-07-13,C2448,Male,53.0,Clothing,Denim Jeans,4,2702,10808,East
+100449,2024-08-23,C2449,Male,24.0,Electronics,Smartwatch,1,9178,9178,West
+100450,2024-05-02,C2450,Female,30.0,Electronics,Smartphone Case,1,3084,3084,West
+100451,2023-08-25,C2451,Female,27.0,Electronics,Power Bank,2,7526,15052,West
+100452,2023-09-29,C2452,Male,21.0,Beauty,Face Moisturizer,1,1631,1631,West
+100453,2023-07-08,C2453,Male,18.0,Beauty,Lipstick Set,1,2203,2203,West
+100454,2024-12-04,C2454,Male,35.0,Clothing,Men's T-Shirt,1,1535,1535,West
+100455,2024-03-22,C2455,Female,44.0,Home & Kitchen,Storage Organizer,1,3146,3146,South
+100456,2024-08-03,C2456,Female,34.0,Beauty,Shampoo 500ml,3,2347,7041,East
+100457,2023-09-04,C2457,Male,30.0,Home & Kitchen,Non-stick Pan,1,1090,1090,East
+100458,2023-03-17,C2458,Female,36.0,Electronics,USB-C Cable,1,13117,13117,South
+100459,2023-06-03,C2459,Male,22.0,Home & Kitchen,LED Table Lamp,1,4951,4951,North
+100460,2024-10-17,C2460,Male,39.0,Beauty,Perfume 100ml,1,1951,1951,West
+100461,2024-03-10,C2461,Female,30.0,Clothing,Formal Shirt,1,1083,1083,South
+100462,2023-03-27,C2462,Female,33.0,Electronics,Smartphone Case,3,14040,42120,East
+100463,2024-11-27,C2463,Female,33.0,Clothing,Formal Shirt,1,1126,1126,East
+100464,2023-10-12,C2464,Male,26.0,Home & Kitchen,Storage Organizer,1,2039,2039,North
+100465,2023-08-08,C2465,Male,22.0,Electronics,Smartphone Case,1,3643,3643,East
+100466,2023-03-10,C2466,Female,,Clothing,Formal Shirt,2,2328,4656,South
+100467,2023-02-16,C2467,Male,44.0,Home & Kitchen,Storage Organizer,1,4963,4963,South
+100468,2023-04-04,C2468,Male,23.0,Groceries,Instant Noodles Pack,1,887,887,North
+100469,2024-03-28,C2469,Male,31.0,Home & Kitchen,Ceramic Mug Set,1,2331,2331,East
+100470,2023-07-23,C2470,Male,28.0,Electronics,Smartwatch,1,14478,14478,North
+100471,2023-08-06,C2471,Female,18.0,Beauty,Face Moisturizer,1,1461,1461,South
+100472,2024-04-18,C2472,Female,29.0,Electronics,Smartwatch,1,1077,1077,West
+100473,2024-03-07,C2473,Male,31.0,Electronics,USB-C Cable,4,11517,46068,East
+100474,2023-12-07,C2474,Female,18.0,Clothing,Denim Jeans,4,587,2348,South
+100475,2024-07-04,C2475,Male,18.0,Beauty,Sunscreen SPF50,1,2326,2326,North
+100476,2024-09-03,C2476,Male,46.0,Beauty,Lipstick Set,1,1521,1521,West
+100477,2023-10-16,C2477,Female,41.0,Beauty,Perfume 100ml,1,967,967,West
+100478,2023-09-11,C2478,Female,42.0,Clothing,Women's Dress,2,2529,5058,South
+100479,2023-12-23,C2479,Female,53.0,Electronics,Wireless Earbuds,1,5673,5673,North
+100480,2023-01-23,C2480,Female,30.0,Beauty,Face Moisturizer,2,570,1140,East
+100481,2024-06-05,C2481,Female,30.0,Electronics,Smartphone Case,1,12664,12664,South
+100482,2023-04-10,C2482,Male,34.0,Clothing,Men's T-Shirt,1,2852,2852,South
+100483,2023-06-29,C2483,Female,31.0,Beauty,Shampoo 500ml,1,718,718,North
+100484,2023-08-11,C2484,Female,18.0,Groceries,Almonds 500g,1,920,920,West
+100485,2024-10-20,C2485,Female,45.0,Clothing,Formal Shirt,2,1743,3486,West
+100486,2024-03-17,C2486,Female,32.0,Groceries,Basmati Rice 5kg,1,990,990,North
+100487,2024-08-30,C2487,Female,36.0,Electronics,Bluetooth Speaker,3,11700,35100,East
+100488,2023-11-21,C2488,Female,18.0,Electronics,Smartwatch,2,14448,28896,North
+100489,2024-05-30,C2489,Female,41.0,Electronics,Wireless Earbuds,1,5451,5451,North
+100490,2023-01-16,C2490,Male,23.0,Clothing,Denim Jeans,1,342,342,North
+100491,2023-12-02,C2491,Female,48.0,Electronics,Power Bank,3,11330,33990,South
+100492,2023-09-15,C2492,Male,29.0,Home & Kitchen,LED Table Lamp,1,4853,4853,North
+100493,2024-05-11,C2493,Male,18.0,Electronics,Smartwatch,1,14841,14841,West
+100494,2023-06-09,C2494,Male,47.0,Clothing,Women's Dress,1,428,428,South
+100495,2024-04-19,C2495,Female,46.0,Electronics,Bluetooth Speaker,2,11748,23496,East
+100496,2024-10-25,C2496,Female,42.0,Home & Kitchen,Non-stick Pan,2,492,984,North
+100497,2024-11-20,C2497,Female,49.0,Electronics,Smartwatch,1,2958,2958,West
+100498,2024-11-05,C2498,Male,62.0,Electronics,USB-C Cable,1,1657,1657,South
+100499,2024-01-15,C2499,Female,26.0,Electronics,Bluetooth Speaker,2,7378,14756,South
+100500,2024-06-28,C2500,Female,26.0,Electronics,Smartphone Case,1,11845,11845,East
+100501,2024-11-21,C2501,Female,18.0,Beauty,Perfume 100ml,2,1405,2810,North
+100502,2024-03-02,C2502,Male,29.0,Groceries,Green Tea Box,3,701,2103,East
+100503,2024-09-04,C2503,Male,32.0,Home & Kitchen,Non-stick Pan,4,4605,18420,East
+100504,2023-09-25,C2504,Male,36.0,Clothing,Denim Jeans,1,2324,2324,West
+100505,2024-07-30,C2505,Female,23.0,Clothing,Formal Shirt,1,3212,3212,North
+100506,2024-02-21,C2506,Male,23.0,Beauty,Face Moisturizer,1,1923,1923,West
+100507,2023-06-17,C2507,Male,31.0,Clothing,Women's Dress,1,3552,3552,East
+100508,2023-02-12,C2508,Female,33.0,Electronics,Wireless Earbuds,3,10864,32592,East
+100509,2024-07-09,C2509,Male,20.0,Beauty,Shampoo 500ml,1,1921,1921,North
+100510,2023-10-12,C2510,Female,44.0,Home & Kitchen,Cotton Bedsheet Set,2,1533,3066,East
+100511,2024-02-01,C2511,Male,36.0,Clothing,Denim Jeans,1,1055,1055,East
+100512,2023-01-12,C2512,Female,30.0,Groceries,Cooking Oil 1L,1,577,577,East
+100513,2024-08-29,C2513,Female,44.0,Beauty,Lipstick Set,1,1451,1451,East
+100514,2023-10-29,C2514,Female,38.0,Home & Kitchen,LED Table Lamp,1,4600,4600,East
+100515,2023-09-10,C2515,Male,18.0,Groceries,Basmati Rice 5kg,2,911,1822,West
+100516,2024-05-13,C2516,Male,30.0,Electronics,Power Bank,1,2525,2525,North
+100517,2023-02-04,C2517,Male,34.0,Electronics,Bluetooth Speaker,1,1221,1221,South
+100518,2024-12-27,C2518,Female,46.0,Electronics,Smartphone Case,1,9882,9882,South
+100519,2023-03-31,C2519,Male,27.0,Home & Kitchen,LED Table Lamp,2,3506,7012,North
+100520,2024-08-27,C2520,Female,19.0,Groceries,Almonds 500g,1,228,228,North
+100521,2024-08-24,C2521,Female,37.0,Beauty,Lipstick Set,1,1503,1503,South
+100522,2024-02-22,C2522,Female,40.0,Beauty,Shampoo 500ml,1,1512,1512,South
+100523,2023-04-25,C2523,Male,18.0,Home & Kitchen,Ceramic Mug Set,1,1153,1153,North
+100524,2024-09-08,C2524,Female,36.0,Clothing,Denim Jeans,1,856,856,North
+100525,2023-07-15,C2525,Female,34.0,Electronics,Power Bank,1,2862,2862,West
+100526,2024-05-15,C2526,Male,21.0,Groceries,Basmati Rice 5kg,1,50,50,South
+100527,2024-09-17,C2527,Male,58.0,Groceries,Basmati Rice 5kg,1,986,986,North
+100528,2024-05-07,C2528,Male,25.0,Home & Kitchen,Ceramic Mug Set,3,3511,10533,North
+100529,2023-03-16,C2529,Female,35.0,Beauty,Shampoo 500ml,1,1845,1845,South
+100530,2024-02-17,C2530,Male,35.0,Electronics,Wireless Earbuds,1,14360,14360,East
+100531,2024-01-11,C2531,Male,39.0,Clothing,Formal Shirt,1,3908,3908,East
+100532,2024-02-24,C2532,Female,31.0,Electronics,Smartphone Case,1,5070,5070,South
+100533,2024-12-29,C2533,Female,30.0,Home & Kitchen,Cotton Bedsheet Set,1,4719,4719,South
+100534,2023-10-04,C2534,Female,44.0,Beauty,Shampoo 500ml,4,2023,8092,South
+100535,2024-11-06,C2535,Female,23.0,Beauty,Perfume 100ml,2,1350,2700,West
+100536,2024-01-29,C2536,Female,38.0,Beauty,Sunscreen SPF50,1,1169,1169,South
+100537,2024-04-01,C2537,Female,24.0,Electronics,USB-C Cable,2,3061,6122,West
+100538,2023-07-11,C2538,Female,18.0,Groceries,Basmati Rice 5kg,1,676,676,South
+100539,2024-11-19,C2539,Male,28.0,Beauty,Face Moisturizer,2,1068,2136,North
+100540,2023-04-09,C2540,Male,22.0,Electronics,Bluetooth Speaker,1,1873,1873,East
+100541,2024-07-01,C2541,Male,47.0,Clothing,Sneakers,2,2459,4918,South
+100542,2023-04-06,C2542,Female,27.0,Clothing,Formal Shirt,1,3772,3772,South
+100543,2024-10-25,C2543,Female,23.0,Groceries,Instant Noodles Pack,2,1148,2296,West
+100544,2024-10-24,C2544,Female,18.0,Electronics,Bluetooth Speaker,1,6450,6450,South
+100545,2023-07-09,C2545,Male,47.0,Groceries,Almonds 500g,1,557,557,East
+100546,2023-02-06,C2546,Female,22.0,Clothing,Sneakers,2,1022,2044,South
+100547,2024-01-04,C2547,Male,24.0,Electronics,USB-C Cable,2,6321,12642,South
+100548,2024-11-25,C2548,Male,44.0,Beauty,Lipstick Set,1,2245,2245,East
+100549,2024-06-08,C2549,Male,42.0,Beauty,Perfume 100ml,1,628,628,East
+100550,2023-10-06,C2550,Male,53.0,Beauty,Face Moisturizer,1,421,421,East
+100551,2023-08-05,C2551,Male,39.0,Home & Kitchen,LED Table Lamp,2,3510,7020,West
+100552,2023-09-30,C2552,Male,28.0,Electronics,Smartwatch,1,14077,14077,West
+100553,2023-03-03,C2553,Female,29.0,Clothing,Winter Jacket,1,3879,3879,East
+100554,2024-08-18,C2554,Female,31.0,Clothing,Winter Jacket,1,2131,2131,South
+100555,2024-12-29,C2555,Male,25.0,Groceries,Basmati Rice 5kg,1,837,837,North
+100556,2023-12-08,C2556,Male,18.0,Beauty,Sunscreen SPF50,1,881,881,South
+100557,2024-02-01,C2557,Male,34.0,Beauty,Sunscreen SPF50,1,2000,2000,South
+100558,2024-11-29,C2558,Male,27.0,Groceries,Basmati Rice 5kg,1,266,266,East
+100559,2023-01-19,C2559,Female,38.0,Beauty,Shampoo 500ml,2,1317,2634,North
+100560,2023-06-26,C2560,Female,42.0,Electronics,USB-C Cable,1,7538,7538,West
+100561,2024-09-03,C2561,Female,29.0,Home & Kitchen,Non-stick Pan,3,1163,3489,East
+100562,2024-01-31,C2562,Female,30.0,Clothing,Men's T-Shirt,2,2678,5356,West
+100563,2024-03-20,C2563,Female,25.0,Groceries,Green Tea Box,3,70,210,North
+100564,2023-08-21,C2564,Female,34.0,Groceries,Green Tea Box,3,1132,3396,North
+100565,2023-03-17,C2565,Male,35.0,Beauty,Shampoo 500ml,2,2434,4868,East
+100566,2023-09-22,C2566,Male,35.0,Clothing,Formal Shirt,1,3458,3458,North
+100567,2024-03-30,C2567,Male,47.0,Home & Kitchen,Non-stick Pan,1,2506,2506,West
+100568,2024-12-18,C2568,Female,47.0,Home & Kitchen,Storage Organizer,3,860,2580,South
+100569,2024-01-19,C2569,Male,45.0,Groceries,Almonds 500g,1,1123,1123,South
+100570,2024-07-17,C2570,Male,44.0,Electronics,Bluetooth Speaker,2,7747,15494,West
+100571,2024-05-20,C2571,Female,49.0,Electronics,Power Bank,1,2707,2707,West
+100572,2024-01-02,C2572,Female,45.0,Clothing,Winter Jacket,1,3720,3720,South
+100573,2023-05-24,C2573,Male,32.0,Clothing,Formal Shirt,1,3718,3718,North
+100574,2023-03-10,C2574,Female,24.0,Beauty,Sunscreen SPF50,1,906,906,South
+100575,2023-04-09,C2575,Female,38.0,Electronics,USB-C Cable,1,2305,2305,South
+100576,2024-01-31,C2576,Male,25.0,Home & Kitchen,Ceramic Mug Set,3,1801,5403,West
+100577,2023-01-25,C2577,Female,63.0,Electronics,Bluetooth Speaker,3,8693,26079,North
+100578,2024-04-13,C2578,Female,23.0,Electronics,Smartwatch,2,11366,22732,South
+100579,2024-04-28,C2579,Female,32.0,Clothing,Denim Jeans,2,2508,5016,North
+100580,2024-07-18,C2580,Male,47.0,Electronics,Smartwatch,1,5697,5697,South
+100581,2023-05-31,C2581,Female,29.0,Clothing,Sneakers,1,1402,1402,East
+100582,2023-05-24,C2582,Female,41.0,Electronics,Smartphone Case,1,10850,10850,South
+100583,2024-07-22,C2583,Female,18.0,Home & Kitchen,Storage Organizer,4,301,1204,North
+100584,2023-02-08,C2584,Female,35.0,Beauty,Face Moisturizer,1,2017,2017,North
+100585,2023-04-19,C2585,Male,21.0,Clothing,Men's T-Shirt,1,910,910,South
+100586,2024-11-23,C2586,Male,22.0,Groceries,Instant Noodles Pack,2,603,1206,South
+100587,2023-02-11,C2587,Female,22.0,Electronics,Smartwatch,3,13026,39078,North
+100588,2023-07-05,C2588,Female,52.0,Electronics,Bluetooth Speaker,2,13907,27814,North
+100589,2024-02-02,C2589,Male,32.0,Clothing,Formal Shirt,1,3195,3195,West
+100590,2023-08-11,C2590,Female,34.0,Clothing,Men's T-Shirt,2,834,1668,West
+100591,2024-09-25,C2591,Male,61.0,Groceries,Green Tea Box,2,483,966,South
+100592,2023-05-13,C2592,Male,48.0,Home & Kitchen,Non-stick Pan,1,687,687,North
+100593,2023-06-12,C2593,Female,29.0,Electronics,Smartphone Case,1,4718,4718,South
+100594,2023-08-03,C2594,Female,38.0,Electronics,Power Bank,2,6138,12276,North
+100595,2023-08-23,C2595,Female,27.0,Groceries,Instant Noodles Pack,1,128,128,East
+100596,2024-10-19,C2596,Female,39.0,Clothing,Men's T-Shirt,3,2862,8586,West
+100597,2024-08-10,C2597,Female,36.0,Beauty,Perfume 100ml,1,375,375,South
+100598,2023-01-09,C2598,Female,41.0,Electronics,Wireless Earbuds,1,14302,14302,East
+100599,2023-03-15,C2599,Female,35.0,Beauty,Shampoo 500ml,2,2384,4768,North
+100600,2024-05-06,C2600,Male,35.0,Electronics,Power Bank,1,8182,8182,West
+100601,2023-09-10,C2601,Male,25.0,Home & Kitchen,Cotton Bedsheet Set,1,4386,4386,North
+100602,2023-08-18,C2602,Male,22.0,Clothing,Men's T-Shirt,1,1124,1124,South
+100603,2024-06-02,C2603,Male,33.0,Groceries,Instant Noodles Pack,1,1167,1167,East
+100604,2023-06-23,C2604,Male,21.0,Beauty,Sunscreen SPF50,1,1062,1062,East
+100605,2024-10-14,C2605,Female,18.0,Clothing,Women's Dress,1,3747,3747,West
+100606,2023-06-17,C2606,Female,33.0,Electronics,Bluetooth Speaker,1,1796,1796,East
+100607,2023-06-19,C2607,Male,24.0,Electronics,Wireless Earbuds,1,2516,2516,West
+100608,2024-01-28,C2608,Male,43.0,Beauty,Perfume 100ml,2,326,652,West
+100609,2024-09-25,C2609,Female,41.0,Groceries,Almonds 500g,3,1119,3357,West
+100610,2023-07-13,C2610,Male,22.0,Home & Kitchen,Non-stick Pan,1,2761,2761,East
+100611,2024-05-31,C2611,Male,60.0,Clothing,Men's T-Shirt,1,3013,3013,South
+100612,2023-01-29,C2612,Female,24.0,Home & Kitchen,Ceramic Mug Set,1,3260,3260,West
+100613,2023-06-14,C2613,Female,18.0,Beauty,Sunscreen SPF50,1,2479,2479,South
+100614,2024-02-26,C2614,Male,22.0,Electronics,Smartphone Case,4,10094,40376,East
+100615,2023-12-05,C2615,Female,30.0,Home & Kitchen,Cotton Bedsheet Set,1,4129,4129,West
+100616,2024-10-09,C2616,Male,45.0,Beauty,Lipstick Set,3,387,1161,East
+100617,2024-05-10,C2617,Female,27.0,Clothing,Denim Jeans,1,3526,3526,North
+100618,2023-12-31,C2618,Female,43.0,Clothing,Sneakers,1,491,491,North
+100619,2023-12-08,C2619,Female,41.0,Electronics,Smartwatch,1,5300,5300,West
+100620,2024-05-14,C2620,Male,43.0,Home & Kitchen,LED Table Lamp,2,796,1592,North
+100621,2024-10-18,C2621,Male,22.0,Electronics,Smartphone Case,1,13721,13721,West
+100622,2024-05-25,C2622,Male,45.0,Home & Kitchen,Non-stick Pan,1,4861,4861,West
+100623,2023-11-23,C2623,Female,45.0,Beauty,Shampoo 500ml,3,1254,3762,North
+100624,2023-08-05,C2624,Male,18.0,Clothing,Denim Jeans,1,3242,3242,North
+100625,2023-10-28,C2625,Male,26.0,Home & Kitchen,Ceramic Mug Set,2,1123,2246,East
+100626,2023-05-12,C2626,Male,18.0,Clothing,Sneakers,2,2583,5166,East
+100627,2023-03-11,C2627,Female,34.0,Electronics,USB-C Cable,1,6761,6761,North
+100628,2023-09-09,C2628,Male,34.0,Beauty,Lipstick Set,1,1736,1736,East
+100629,2024-02-19,C2629,Female,39.0,Electronics,Wireless Earbuds,1,8919,8919,South
+100630,2024-03-20,C2630,Female,35.0,Home & Kitchen,LED Table Lamp,1,359,359,South
+100631,2023-07-01,C2631,Male,33.0,Home & Kitchen,Non-stick Pan,1,2167,2167,East
+100632,2023-06-16,C2632,Male,51.0,Beauty,Face Moisturizer,2,679,1358,West
+100633,2023-04-01,C2633,Female,18.0,Clothing,Women's Dress,1,2435,2435,West
+100634,2024-12-14,C2634,Female,37.0,Electronics,USB-C Cable,4,993,3972,East
+100635,2024-06-14,C2635,Female,45.0,Clothing,Denim Jeans,2,1161,2322,East
+100636,2023-02-08,C2636,Male,43.0,Clothing,Men's T-Shirt,1,845,845,East
+100637,2023-05-06,C2637,Female,33.0,Beauty,Sunscreen SPF50,1,1432,1432,South
+100638,2024-03-26,C2638,Female,49.0,Clothing,Winter Jacket,3,1431,4293,North
+100639,2023-06-22,C2639,Female,18.0,Home & Kitchen,LED Table Lamp,2,503,1006,South
+100640,2024-10-14,C2640,Male,43.0,Groceries,Instant Noodles Pack,1,894,894,South
+100641,2023-08-08,C2641,Female,28.0,Beauty,Perfume 100ml,2,404,808,North
+100642,2024-09-29,C2642,Female,33.0,Clothing,Winter Jacket,1,325,325,North
+100643,2023-02-27,C2643,Male,35.0,Clothing,Sneakers,1,3515,3515,West
+100644,2024-10-21,C2644,Male,34.0,Home & Kitchen,Ceramic Mug Set,1,4702,4702,South
+100645,2024-04-20,C2645,Female,27.0,Beauty,Perfume 100ml,2,346,692,North
+100646,2024-03-31,C2646,Male,,Clothing,Sneakers,2,2937,5874,North
+100647,2023-12-27,C2647,Female,22.0,Beauty,Sunscreen SPF50,3,1856,5568,East
+100648,2023-01-01,C2648,Male,47.0,Electronics,Bluetooth Speaker,1,3369,3369,South
+100649,2024-01-22,C2649,Female,28.0,Groceries,Cooking Oil 1L,2,1136,2272,South
+100650,2023-12-14,C2650,Male,38.0,Beauty,Sunscreen SPF50,1,578,578,North
+100651,2023-07-09,C2651,Female,31.0,Clothing,Men's T-Shirt,1,2715,2715,West
+100652,2024-05-19,C2652,Female,31.0,Beauty,Lipstick Set,1,2491,2491,East
+100653,2023-07-10,C2653,Female,29.0,Electronics,Wireless Earbuds,2,1046,2092,South
+100654,2024-05-22,C2654,Female,40.0,Home & Kitchen,Cotton Bedsheet Set,1,4272,4272,West
+100655,2024-01-04,C2655,Male,52.0,Groceries,Almonds 500g,3,527,1581,West
+100656,2024-02-13,C2656,Female,44.0,Home & Kitchen,LED Table Lamp,2,837,1674,North
+100657,2023-04-27,C2657,Female,31.0,Home & Kitchen,Ceramic Mug Set,1,2448,2448,South
+100658,2023-05-14,C2658,Male,30.0,Clothing,Women's Dress,2,702,1404,South
+100659,2023-02-27,C2659,Male,31.0,Home & Kitchen,Ceramic Mug Set,1,4082,4082,South
+100660,2024-07-09,C2660,Female,53.0,Groceries,Instant Noodles Pack,1,1041,1041,West
+100661,2024-11-15,C2661,Female,30.0,Electronics,Wireless Earbuds,2,12806,25612,East
+100662,2024-11-02,C2662,Male,19.0,Electronics,Wireless Earbuds,2,4445,8890,North
+100663,2023-06-22,C2663,Male,55.0,Home & Kitchen,Non-stick Pan,1,695,695,South
+100664,2023-05-29,C2664,Female,46.0,Clothing,Women's Dress,1,2148,2148,West
+100665,2023-03-21,C2665,Female,18.0,Groceries,Almonds 500g,1,743,743,North
+100666,2023-08-01,C2666,Male,25.0,Clothing,Formal Shirt,3,318,954,North
+100667,2023-07-22,C2667,Male,35.0,Clothing,Formal Shirt,1,2303,2303,North
+100668,2023-08-17,C2668,Male,39.0,Clothing,Formal Shirt,1,3320,3320,West
+100669,2024-11-06,C2669,Male,47.0,Beauty,Lipstick Set,4,1190,4760,South
+100670,2023-08-15,C2670,Female,33.0,Home & Kitchen,Cotton Bedsheet Set,2,4768,9536,North
+100671,2024-10-20,C2671,Male,32.0,Clothing,Women's Dress,4,1079,4316,West
+100672,2024-06-15,C2672,Male,33.0,Home & Kitchen,Non-stick Pan,2,1561,3122,West
+100673,2024-03-16,C2673,Female,50.0,Beauty,Shampoo 500ml,1,2306,2306,North
+100674,2024-02-06,C2674,Female,36.0,Electronics,Smartwatch,1,14257,14257,East
+100675,2023-02-16,C2675,Female,28.0,Groceries,Cooking Oil 1L,2,871,1742,East
+100676,2023-08-21,C2676,Female,26.0,Clothing,Winter Jacket,1,2858,2858,East
+100677,2023-11-01,C2677,Female,38.0,Beauty,Perfume 100ml,2,2364,4728,South
+100678,2024-06-09,C2678,Male,32.0,Clothing,Denim Jeans,1,3530,3530,South
+100679,2023-05-23,C2679,Male,28.0,Clothing,Winter Jacket,3,1943,5829,South
+100680,2024-02-19,C2680,Female,46.0,Groceries,Cooking Oil 1L,2,512,1024,East
+100681,2024-05-27,C2681,Female,44.0,Electronics,Smartphone Case,1,4357,4357,South
+100682,2024-01-08,C2682,Male,29.0,Clothing,Formal Shirt,2,3728,7456,West
+100683,2024-07-19,C2683,Female,30.0,Electronics,USB-C Cable,1,5552,5552,South
+100684,2023-09-16,C2684,Male,23.0,Electronics,Wireless Earbuds,1,8690,8690,South
+100685,2024-10-17,C2685,Female,41.0,Clothing,Winter Jacket,2,1806,3612,North
+100686,2024-04-15,C2686,Female,39.0,Electronics,Smartwatch,1,3927,3927,West
+100687,2023-01-12,C2687,Male,38.0,Clothing,Men's T-Shirt,1,1564,1564,East
+100688,2023-11-26,C2688,Female,25.0,Electronics,USB-C Cable,1,14459,14459,West
+100689,2023-12-24,C2689,Female,45.0,Clothing,Women's Dress,4,1904,7616,West
+100690,2024-02-12,C2690,Female,39.0,Electronics,Power Bank,1,2348,2348,East
+100691,2024-10-29,C2691,Female,26.0,Electronics,Bluetooth Speaker,1,9514,9514,North
+100692,2024-01-08,C2692,Male,29.0,Beauty,Perfume 100ml,1,988,988,South
+100693,2023-01-08,C2693,Female,35.0,Beauty,Face Moisturizer,1,1264,1264,South
+100694,2023-05-02,C2694,Female,54.0,Groceries,Almonds 500g,1,418,418,South
+100695,2023-12-14,C2695,Male,44.0,Beauty,Lipstick Set,1,1978,1978,South
+100696,2024-11-06,C2696,Female,18.0,Beauty,Lipstick Set,1,1473,1473,North
+100697,2023-03-31,C2697,Male,56.0,Beauty,Sunscreen SPF50,1,2032,2032,East
+100698,2024-10-09,C2698,Male,35.0,Electronics,Smartphone Case,2,4058,8116,West
+100699,2024-11-28,C2699,Female,40.0,Home & Kitchen,Cotton Bedsheet Set,2,598,1196,North
+100700,2023-11-12,C2700,Female,18.0,Clothing,Formal Shirt,1,2411,2411,North
+100701,2023-06-27,C2701,Male,22.0,Electronics,Smartphone Case,2,9438,18876,East
+100702,2024-06-23,C2702,Male,45.0,Groceries,Basmati Rice 5kg,2,645,1290,East
+100703,2023-02-10,C2703,Female,28.0,Clothing,Sneakers,2,1511,3022,West
+100704,2024-12-04,C2704,Male,45.0,Electronics,USB-C Cable,1,848,848,East
+100705,2024-05-16,C2705,Female,39.0,Home & Kitchen,Storage Organizer,1,4616,4616,North
+100706,2023-05-25,C2706,Male,25.0,Beauty,Perfume 100ml,2,674,1348,East
+100707,2023-07-20,C2707,Female,33.0,Home & Kitchen,LED Table Lamp,1,4703,4703,West
+100708,2024-12-24,C2708,Male,31.0,Electronics,Power Bank,2,9477,18954,South
+100709,2024-04-05,C2709,Male,46.0,Beauty,Lipstick Set,2,651,1302,North
+100710,2024-07-11,C2710,Female,,Electronics,Smartwatch,3,14536,43608,South
+100711,2024-06-30,C2711,Male,37.0,Clothing,Denim Jeans,1,3973,3973,North
+100712,2023-09-10,C2712,Female,44.0,Home & Kitchen,Ceramic Mug Set,2,3968,7936,South
+100713,2024-01-25,C2713,Male,21.0,Home & Kitchen,Cotton Bedsheet Set,4,3747,14988,North
+100714,2024-08-16,C2714,Female,43.0,Home & Kitchen,Ceramic Mug Set,1,814,814,North
+100715,2023-09-13,C2715,Male,39.0,Home & Kitchen,Storage Organizer,1,3530,3530,North
+100716,2024-12-09,C2716,Female,40.0,Groceries,Basmati Rice 5kg,1,95,95,North
+100717,2024-03-25,C2717,Male,19.0,Clothing,Women's Dress,2,2887,5774,North
+100718,2023-01-10,C2718,Female,50.0,Home & Kitchen,Cotton Bedsheet Set,1,1544,1544,South
+100719,2023-08-30,C2719,Male,39.0,Clothing,Denim Jeans,1,1398,1398,South
+100720,2023-09-08,C2720,Female,39.0,Clothing,Denim Jeans,1,2354,2354,North
+100721,2023-01-05,C2721,Female,20.0,Beauty,Sunscreen SPF50,3,1201,3603,South
+100722,2023-04-29,C2722,Female,60.0,Electronics,Smartwatch,1,2840,2840,North
+100723,2024-01-09,C2723,Male,63.0,Clothing,Denim Jeans,2,2704,5408,North
+100724,2023-03-06,C2724,Female,,Groceries,Instant Noodles Pack,1,963,963,East
+100725,2023-05-26,C2725,Female,46.0,Electronics,Smartwatch,1,13872,13872,East
+100726,2023-08-12,C2726,Female,22.0,Home & Kitchen,Non-stick Pan,1,4521,4521,West
+100727,2023-08-27,C2727,Male,42.0,Electronics,Bluetooth Speaker,2,12657,25314,East
+100728,2023-06-26,C2728,Male,41.0,Clothing,Winter Jacket,1,3708,3708,West
+100729,2023-10-09,C2729,Female,33.0,Electronics,Wireless Earbuds,1,4995,4995,South
+100730,2023-03-04,C2730,Female,33.0,Electronics,Smartphone Case,2,7333,14666,East
+100731,2023-08-05,C2731,Female,30.0,Electronics,USB-C Cable,2,874,1748,South
+100732,2024-11-19,C2732,Male,32.0,Beauty,Sunscreen SPF50,1,2452,2452,East
+100733,2024-04-05,C2733,Male,25.0,Electronics,USB-C Cable,2,10916,21832,West
+100734,2024-09-01,C2734,Male,26.0,Groceries,Basmati Rice 5kg,1,591,591,North
+100735,2023-04-15,C2735,Female,40.0,Electronics,Smartphone Case,4,13517,54068,East
+100736,2023-04-09,C2736,Female,43.0,Groceries,Green Tea Box,2,858,1716,North
+100737,2024-05-25,C2737,Female,41.0,Clothing,Sneakers,1,3159,3159,West
+100738,2024-01-20,C2738,Male,18.0,Clothing,Women's Dress,1,3442,3442,North
+100739,2024-02-09,C2739,Female,41.0,Beauty,Sunscreen SPF50,1,2385,2385,West
+100740,2024-06-01,C2740,Male,25.0,Clothing,Women's Dress,1,1677,1677,East
+100741,2024-04-20,C2741,Male,26.0,Clothing,Women's Dress,1,1652,1652,East
+100742,2024-12-09,C2742,Female,35.0,Beauty,Shampoo 500ml,2,477,954,South
+100743,2024-10-06,C2743,Female,39.0,Beauty,Lipstick Set,1,316,316,North
+100744,2024-03-12,C2744,Male,28.0,Groceries,Basmati Rice 5kg,1,840,840,South
+100745,2023-01-23,C2745,Female,22.0,Electronics,Wireless Earbuds,1,3822,3822,East
+100746,2024-07-18,C2746,Female,18.0,Clothing,Denim Jeans,2,416,832,East
+100747,2024-11-07,C2747,Female,18.0,Groceries,Cooking Oil 1L,1,707,707,South
+100748,2024-12-14,C2748,Female,22.0,Electronics,Smartwatch,1,7013,7013,West
+100749,2024-04-02,C2749,Male,18.0,Beauty,Shampoo 500ml,1,604,604,West
+100750,2023-03-24,C2750,Male,46.0,Clothing,Women's Dress,2,550,1100,West
+100751,2023-05-25,C2751,Male,32.0,Groceries,Green Tea Box,1,1072,1072,West
+100752,2023-03-26,C2752,Female,39.0,Clothing,Men's T-Shirt,2,3581,7162,North
+100753,2023-03-19,C2753,Female,22.0,Home & Kitchen,Ceramic Mug Set,4,3925,15700,West
+100754,2024-04-01,C2754,Female,38.0,Electronics,Smartphone Case,1,3970,3970,North
+100755,2023-01-01,C2755,Male,45.0,Electronics,Wireless Earbuds,1,10857,10857,East
+100756,2023-02-20,C2756,Male,37.0,Clothing,Women's Dress,2,2206,4412,West
+100757,2024-11-15,C2757,Female,24.0,Beauty,Sunscreen SPF50,2,1578,3156,North
+100758,2024-12-17,C2758,Female,39.0,Beauty,Perfume 100ml,1,1190,1190,North
+100759,2024-03-21,C2759,Male,40.0,Home & Kitchen,Ceramic Mug Set,1,4612,4612,East
+100760,2024-03-24,C2760,Male,41.0,Clothing,Men's T-Shirt,1,3545,3545,East
+100761,2024-05-02,C2761,Male,35.0,Home & Kitchen,Ceramic Mug Set,3,590,1770,South
+100762,2023-02-03,C2762,Female,20.0,Electronics,Smartphone Case,1,10648,10648,East
+100763,2023-12-14,C2763,Male,33.0,Electronics,Power Bank,1,8527,8527,West
+100764,2023-04-05,C2764,Male,37.0,Clothing,Sneakers,1,1528,1528,West
+100765,2023-03-13,C2765,Female,24.0,Electronics,Smartwatch,2,3063,6126,South
+100766,2024-07-04,C2766,Female,40.0,Electronics,USB-C Cable,1,8969,8969,North
+100767,2023-06-03,C2767,Female,29.0,Home & Kitchen,LED Table Lamp,1,1259,1259,North
+100768,2023-09-07,C2768,Male,36.0,Electronics,Wireless Earbuds,2,14065,28130,North
+100769,2024-11-04,C2769,Male,45.0,Clothing,Women's Dress,2,3104,6208,South
+100770,2024-03-13,C2770,Female,18.0,Home & Kitchen,Non-stick Pan,1,3300,3300,West
+100771,2023-04-28,C2771,Female,42.0,Clothing,Sneakers,2,2793,5586,West
+100772,2023-11-02,C2772,Female,42.0,Clothing,Men's T-Shirt,3,2273,6819,South
+100773,2023-09-25,C2773,Female,26.0,Clothing,Winter Jacket,4,643,2572,South
+100774,2023-02-23,C2774,Male,39.0,Electronics,Power Bank,1,12944,12944,South
+100775,2023-08-24,C2775,Male,18.0,Clothing,Men's T-Shirt,2,2575,5150,North
+100776,2024-01-24,C2776,Male,21.0,Clothing,Denim Jeans,2,1389,2778,South
+100777,2024-02-05,C2777,Female,42.0,Clothing,Men's T-Shirt,3,3160,9480,North
+100778,2024-09-15,C2778,Female,40.0,Home & Kitchen,LED Table Lamp,2,1016,2032,North
+100779,2023-10-30,C2779,Male,30.0,Electronics,USB-C Cable,1,1295,1295,East
+100780,2023-07-26,C2780,Male,33.0,Home & Kitchen,Cotton Bedsheet Set,3,587,1761,South
+100781,2023-08-17,C2781,Male,43.0,Electronics,Smartwatch,2,12530,25060,North
+100782,2024-07-31,C2782,Female,27.0,Clothing,Denim Jeans,2,3867,7734,East
+100783,2023-03-16,C2783,Male,37.0,Beauty,Sunscreen SPF50,2,1799,3598,South
+100784,2024-03-10,C2784,Female,18.0,Beauty,Perfume 100ml,1,208,208,North
+100785,2023-04-13,C2785,Female,28.0,Groceries,Instant Noodles Pack,2,1071,2142,South
+100786,2024-02-26,C2786,Female,56.0,Beauty,Shampoo 500ml,1,1866,1866,North
+100787,2024-12-04,C2787,Female,34.0,Home & Kitchen,Cotton Bedsheet Set,2,4021,8042,North
+100788,2023-11-02,C2788,Male,37.0,Home & Kitchen,Ceramic Mug Set,1,1095,1095,East
+100789,2023-04-08,C2789,Female,18.0,Clothing,Denim Jeans,1,3196,3196,South
+100790,2023-12-01,C2790,Male,34.0,Beauty,Shampoo 500ml,2,1410,2820,South
+100791,2024-03-10,C2791,Male,53.0,Electronics,Smartwatch,1,5872,5872,South
+100792,2024-03-22,C2792,Male,34.0,Electronics,Bluetooth Speaker,1,9220,9220,North
+100793,2023-11-04,C2793,Male,44.0,Home & Kitchen,LED Table Lamp,1,4043,4043,West
+100794,2023-09-06,C2794,Female,29.0,Home & Kitchen,Ceramic Mug Set,2,1242,2484,South
+100795,2023-06-15,C2795,Male,22.0,Electronics,Smartphone Case,1,3783,3783,South
+100796,2024-04-25,C2796,Female,28.0,Electronics,Smartwatch,1,5381,5381,East
+100797,2023-12-01,C2797,Male,48.0,Groceries,Green Tea Box,1,416,416,West
+100798,2024-06-25,C2798,Female,35.0,Beauty,Shampoo 500ml,1,1068,1068,East
+100799,2023-04-16,C2799,Female,24.0,Home & Kitchen,LED Table Lamp,1,2470,2470,East
+100800,2024-07-16,C2800,Male,33.0,Electronics,Bluetooth Speaker,2,9326,18652,South
+100801,2023-03-22,C2801,Male,31.0,Beauty,Sunscreen SPF50,2,1891,3782,North
+100802,2023-05-13,C2802,Female,41.0,Home & Kitchen,Cotton Bedsheet Set,1,4143,4143,West
+100803,2023-05-18,C2803,Female,30.0,Beauty,Lipstick Set,1,1887,1887,East
+100804,2023-07-03,C2804,Male,36.0,Electronics,USB-C Cable,1,7973,7973,East
+100805,2024-02-05,C2805,Female,47.0,Home & Kitchen,Non-stick Pan,1,2073,2073,South
+100806,2023-11-26,C2806,Male,32.0,Groceries,Cooking Oil 1L,1,136,136,West
+100807,2024-05-22,C2807,Female,37.0,Groceries,Almonds 500g,2,991,1982,South
+100808,2023-03-10,C2808,Male,18.0,Home & Kitchen,Cotton Bedsheet Set,1,1575,1575,South
+100809,2024-06-29,C2809,Female,23.0,Beauty,Perfume 100ml,2,2051,4102,North
+100810,2023-02-22,C2810,Female,31.0,Electronics,USB-C Cable,1,6124,6124,East
+100811,2024-03-25,C2811,Male,34.0,Clothing,Men's T-Shirt,1,2586,2586,North
+100812,2023-07-24,C2812,Male,33.0,Groceries,Green Tea Box,2,970,1940,North
+100813,2023-05-06,C2813,Male,36.0,Clothing,Formal Shirt,2,3731,7462,East
+100814,2023-02-12,C2814,Female,46.0,Groceries,Almonds 500g,1,894,894,West
+100815,2023-04-21,C2815,Female,39.0,Groceries,Instant Noodles Pack,4,1166,4664,North
+100816,2024-10-24,C2816,Male,40.0,Electronics,Bluetooth Speaker,1,9865,9865,West
+100817,2023-07-02,C2817,Male,33.0,Clothing,Winter Jacket,2,3799,7598,South
+100818,2023-04-05,C2818,Male,48.0,Clothing,Winter Jacket,2,1978,3956,East
+100819,2024-01-09,C2819,Female,34.0,Clothing,Formal Shirt,1,1656,1656,East
+100820,2024-06-03,C2820,Female,42.0,Groceries,Cooking Oil 1L,2,717,1434,East
+100821,2023-12-26,C2821,Female,37.0,Clothing,Formal Shirt,2,3920,7840,South
+100822,2024-11-26,C2822,Male,55.0,Beauty,Perfume 100ml,2,2179,4358,West
+100823,2023-10-08,C2823,Female,18.0,Clothing,Winter Jacket,2,1180,2360,West
+100824,2023-07-14,C2824,Male,45.0,Beauty,Face Moisturizer,2,315,630,North
+100825,2023-07-14,C2825,Male,24.0,Electronics,Wireless Earbuds,1,10950,10950,South
+100826,2024-10-28,C2826,Female,26.0,Groceries,Cooking Oil 1L,2,567,1134,North
+100827,2023-04-03,C2827,Female,33.0,Clothing,Formal Shirt,2,1715,3430,South
+100828,2024-11-02,C2828,Male,51.0,Electronics,Bluetooth Speaker,1,9835,9835,South
+100829,2023-03-02,C2829,Female,46.0,Groceries,Instant Noodles Pack,1,1119,1119,North
+100830,2024-09-25,C2830,Female,34.0,Beauty,Sunscreen SPF50,1,2059,2059,West
+100831,2023-02-20,C2831,Female,26.0,Groceries,Basmati Rice 5kg,1,72,72,North
+100832,2024-02-07,C2832,Female,41.0,Beauty,Shampoo 500ml,1,1591,1591,West
+100833,2023-01-05,C2833,Male,37.0,Clothing,Women's Dress,2,2566,5132,West
+100834,2024-04-10,C2834,Female,38.0,Home & Kitchen,LED Table Lamp,1,1087,1087,South
+100835,2024-08-26,C2835,Female,36.0,Electronics,Smartwatch,2,5447,10894,South
+100836,2024-11-12,C2836,Female,32.0,Beauty,Shampoo 500ml,4,933,3732,South
+100837,2024-06-17,C2837,Male,39.0,Home & Kitchen,Storage Organizer,1,1127,1127,South
+100838,2024-02-09,C2838,Male,40.0,Clothing,Winter Jacket,1,836,836,East
+100839,2024-05-27,C2839,Female,34.0,Groceries,Green Tea Box,1,84,84,East
+100840,2024-10-06,C2840,Female,38.0,Groceries,Green Tea Box,2,393,786,South
+100841,2023-08-21,C2841,Female,38.0,Electronics,Power Bank,2,10374,20748,North
+100842,2024-06-07,C2842,Male,45.0,Electronics,Bluetooth Speaker,1,10012,10012,South
+100843,2023-12-12,C2843,Female,29.0,Groceries,Instant Noodles Pack,1,664,664,South
+100844,2023-02-15,C2844,Female,18.0,Electronics,Smartphone Case,1,2521,2521,South
+100845,2024-06-29,C2845,Male,41.0,Groceries,Basmati Rice 5kg,1,676,676,East
+100846,2023-03-19,C2846,Male,38.0,Home & Kitchen,Non-stick Pan,1,4685,4685,North
+100847,2024-12-30,C2847,Female,18.0,Clothing,Women's Dress,1,897,897,South
+100848,2023-03-14,C2848,Male,19.0,Beauty,Perfume 100ml,1,649,649,East
+100849,2023-09-06,C2849,Female,47.0,Beauty,Face Moisturizer,1,377,377,West
+100850,2023-02-16,C2850,Female,29.0,Home & Kitchen,Storage Organizer,1,769,769,East
+100851,2023-05-01,C2851,Male,36.0,Clothing,Denim Jeans,2,2224,4448,West
+100852,2023-08-02,C2852,Female,42.0,Clothing,Denim Jeans,1,3690,3690,North
+100853,2023-08-27,C2853,Female,31.0,Home & Kitchen,Cotton Bedsheet Set,1,2474,2474,West
+100854,2023-02-25,C2854,Male,27.0,Electronics,Wireless Earbuds,1,13289,13289,North
+100855,2023-12-16,C2855,Female,40.0,Beauty,Sunscreen SPF50,1,583,583,North
+100856,2023-04-17,C2856,Female,47.0,Clothing,Women's Dress,1,2523,2523,East
+100857,2023-02-17,C2857,Male,41.0,Groceries,Cooking Oil 1L,2,828,1656,East
+100858,2024-07-26,C2858,Female,58.0,Clothing,Winter Jacket,1,2124,2124,North
+100859,2023-12-03,C2859,Female,24.0,Clothing,Women's Dress,2,2094,4188,East
+100860,2023-01-26,C2860,Female,19.0,Electronics,Bluetooth Speaker,1,13715,13715,South
+100861,2023-09-14,C2861,Female,30.0,Clothing,Women's Dress,1,3341,3341,North
+100862,2023-01-08,C2862,Male,29.0,Electronics,Power Bank,1,13377,13377,West
+100863,2024-09-16,C2863,Male,47.0,Clothing,Winter Jacket,1,1089,1089,West
+100864,2023-09-10,C2864,Male,19.0,Electronics,Smartwatch,2,12778,25556,South
+100865,2024-11-22,C2865,Male,41.0,Beauty,Face Moisturizer,1,1096,1096,South
+100866,2024-12-19,C2866,Male,,Beauty,Lipstick Set,1,536,536,East
+100867,2023-10-30,C2867,Male,41.0,Home & Kitchen,LED Table Lamp,2,3692,7384,East
+100868,2024-09-30,C2868,Male,28.0,Clothing,Men's T-Shirt,1,1042,1042,West
+100869,2023-02-25,C2869,Female,18.0,Home & Kitchen,Storage Organizer,1,2165,2165,North
+100870,2024-12-26,C2870,Female,24.0,Electronics,Smartwatch,1,1673,1673,South
+100871,2024-06-09,C2871,Male,32.0,Electronics,Power Bank,1,1170,1170,West
+100872,2024-04-18,C2872,Male,32.0,Clothing,Men's T-Shirt,1,2561,2561,North
+100873,2023-01-28,C2873,Male,49.0,Groceries,Almonds 500g,2,814,1628,West
+100874,2023-03-19,C2874,Female,36.0,Electronics,Bluetooth Speaker,2,8514,17028,East
+100875,2023-08-04,C2875,Male,33.0,Electronics,Bluetooth Speaker,1,14728,14728,South
+100876,2024-01-21,C2876,Female,22.0,Beauty,Perfume 100ml,1,1335,1335,North
+100877,2023-12-31,C2877,Female,23.0,Electronics,Smartphone Case,2,12412,24824,South
+100878,2024-10-27,C2878,Female,35.0,Beauty,Lipstick Set,1,1201,1201,West
+100879,2024-06-09,C2879,Female,27.0,Electronics,Power Bank,1,13937,13937,North
+100880,2024-11-29,C2880,Male,,Clothing,Sneakers,1,3247,3247,West
+100881,2023-11-08,C2881,Male,28.0,Groceries,Basmati Rice 5kg,1,366,366,North
+100882,2023-01-07,C2882,Female,27.0,Electronics,Power Bank,1,1339,1339,South
+100883,2023-01-03,C2883,Male,30.0,Electronics,Bluetooth Speaker,1,5887,5887,South
+100884,2024-09-14,C2884,Female,35.0,Home & Kitchen,Non-stick Pan,1,1166,1166,West
+100885,2023-12-29,C2885,Female,29.0,Clothing,Men's T-Shirt,1,1377,1377,East
+100886,2024-05-22,C2886,Female,24.0,Home & Kitchen,Storage Organizer,1,292,292,North
+100887,2023-10-01,C2887,Female,42.0,Clothing,Winter Jacket,4,883,3532,North
+100888,2024-05-20,C2888,Male,37.0,Clothing,Women's Dress,3,3485,10455,South
+100889,2023-01-15,C2889,Male,26.0,Beauty,Lipstick Set,1,1527,1527,West
+100890,2023-07-11,C2890,Female,46.0,Electronics,Smartphone Case,1,8412,8412,South
+100891,2024-09-22,C2891,Female,18.0,Groceries,Cooking Oil 1L,1,580,580,North
+100892,2024-04-29,C2892,Female,34.0,Electronics,Power Bank,1,10721,10721,North
+100893,2023-01-28,C2893,Female,40.0,Beauty,Lipstick Set,2,446,892,North
+100894,2024-12-14,C2894,Male,34.0,Clothing,Women's Dress,1,2452,2452,West
+100895,2023-02-08,C2895,Female,25.0,Electronics,Smartwatch,1,3311,3311,East
+100896,2023-09-30,C2896,Female,22.0,Clothing,Sneakers,3,2586,7758,North
+100897,2023-08-19,C2897,Female,33.0,Home & Kitchen,LED Table Lamp,1,4280,4280,West
+100898,2023-03-27,C2898,Male,38.0,Beauty,Shampoo 500ml,1,1003,1003,South
+100899,2024-04-18,C2899,Male,37.0,Clothing,Sneakers,1,1599,1599,South
+100900,2023-05-06,C2900,Male,37.0,Electronics,USB-C Cable,3,12999,38997,North
+100901,2024-06-20,C2901,Female,36.0,Home & Kitchen,Storage Organizer,1,4550,4550,South
+100902,2023-05-25,C2902,Male,18.0,Clothing,Women's Dress,1,2898,2898,East
+100903,2024-06-08,C2903,Female,31.0,Clothing,Formal Shirt,1,2036,2036,East
+100904,2023-07-31,C2904,Male,26.0,Electronics,Wireless Earbuds,2,8125,16250,West
+100905,2023-01-25,C2905,Male,42.0,Electronics,Power Bank,2,8431,16862,South
+100906,2024-08-02,C2906,Female,53.0,Clothing,Men's T-Shirt,1,1612,1612,West
+100907,2024-01-29,C2907,Female,26.0,Home & Kitchen,Storage Organizer,1,3551,3551,West
+100908,2023-03-08,C2908,Male,38.0,Clothing,Sneakers,2,1284,2568,South
+100909,2023-08-21,C2909,Female,24.0,Home & Kitchen,Non-stick Pan,2,3664,7328,North
+100910,2023-04-19,C2910,Male,53.0,Home & Kitchen,Ceramic Mug Set,3,3002,9006,West
+100911,2023-05-26,C2911,Male,43.0,Clothing,Men's T-Shirt,1,1094,1094,South
+100912,2023-04-21,C2912,Male,25.0,Home & Kitchen,Ceramic Mug Set,1,2408,2408,North
+100913,2023-08-16,C2913,Male,26.0,Home & Kitchen,LED Table Lamp,1,2576,2576,North
+100914,2023-04-21,C2914,Male,24.0,Groceries,Green Tea Box,1,1125,1125,West
+100915,2024-04-14,C2915,Female,46.0,Home & Kitchen,Ceramic Mug Set,1,1895,1895,North
+100916,2023-02-03,C2916,Female,46.0,Electronics,Wireless Earbuds,1,5043,5043,West
+100917,2024-09-14,C2917,Female,32.0,Groceries,Instant Noodles Pack,2,586,1172,South
+100918,2024-01-04,C2918,Female,41.0,Beauty,Lipstick Set,3,1262,3786,North
+100919,2024-08-17,C2919,Male,40.0,Clothing,Sneakers,1,3854,3854,South
+100920,2024-07-07,C2920,Male,30.0,Clothing,Men's T-Shirt,1,556,556,South
+100921,2024-02-29,C2921,Male,33.0,Clothing,Sneakers,1,1506,1506,South
+100922,2024-09-04,C2922,Male,41.0,Electronics,Smartphone Case,1,1296,1296,North
+100923,2024-06-01,C2923,Male,27.0,Groceries,Basmati Rice 5kg,1,1176,1176,East
+100924,2024-11-22,C2924,Male,47.0,Clothing,Winter Jacket,1,1726,1726,South
+100925,2023-10-09,C2925,Male,50.0,Electronics,USB-C Cable,1,7995,7995,North
+100926,2023-11-16,C2926,Female,32.0,Clothing,Sneakers,2,3581,7162,East
+100927,2024-03-18,C2927,Male,18.0,Beauty,Sunscreen SPF50,1,1331,1331,North
+100928,2023-11-11,C2928,Male,26.0,Home & Kitchen,Ceramic Mug Set,1,3377,3377,East
+100929,2024-01-12,C2929,Male,37.0,Clothing,Formal Shirt,2,741,1482,East
+100930,2023-10-16,C2930,Female,35.0,Electronics,Wireless Earbuds,1,3722,3722,South
+100931,2024-03-12,C2931,Female,43.0,Home & Kitchen,LED Table Lamp,3,614,1842,East
+100932,2024-10-23,C2932,Female,36.0,Electronics,Bluetooth Speaker,2,11828,23656,East
+100933,2023-10-04,C2933,Female,32.0,Home & Kitchen,Ceramic Mug Set,1,4757,4757,West
+100934,2024-12-10,C2934,Male,42.0,Electronics,Smartwatch,1,5277,5277,East
+100935,2024-08-04,C2935,Female,18.0,Clothing,Winter Jacket,1,1396,1396,East
+100936,2024-05-17,C2936,Female,28.0,Electronics,Smartwatch,1,2679,2679,West
+100937,2024-09-15,C2937,Female,45.0,Clothing,Women's Dress,4,3609,14436,North
+100938,2024-05-30,C2938,Female,25.0,Clothing,Men's T-Shirt,4,3352,13408,West
+100939,2023-12-16,C2939,Female,41.0,Beauty,Face Moisturizer,1,859,859,South
+100940,2024-03-21,C2940,Female,22.0,Clothing,Formal Shirt,2,3611,7222,East
+100941,2023-12-16,C2941,Female,35.0,Groceries,Cooking Oil 1L,2,1035,2070,North
+100942,2024-08-29,C2942,Male,28.0,Groceries,Green Tea Box,1,936,936,West
+100943,2024-10-25,C2943,Female,50.0,Groceries,Instant Noodles Pack,1,599,599,North
+100944,2023-05-17,C2944,Female,33.0,Electronics,Wireless Earbuds,3,1786,5358,South
+100945,2023-08-31,C2945,Female,38.0,Groceries,Almonds 500g,4,122,488,East
+100946,2024-06-26,C2946,Female,40.0,Clothing,Denim Jeans,1,2184,2184,South
+100947,2023-02-09,C2947,Female,30.0,Electronics,Smartwatch,2,9433,18866,West
+100948,2023-08-17,C2948,Female,33.0,Home & Kitchen,Storage Organizer,1,1940,1940,South
+100949,2024-07-01,C2949,Female,26.0,Electronics,USB-C Cable,2,14880,29760,West
+100950,2023-08-11,C2950,Male,29.0,Beauty,Shampoo 500ml,1,1741,1741,North
+100951,2023-01-06,C2951,Female,52.0,Electronics,Smartwatch,1,10741,10741,North
+100952,2023-11-18,C2952,Male,35.0,Electronics,Smartphone Case,1,9631,9631,East
+100953,2024-04-12,C2953,Male,33.0,Electronics,Smartphone Case,2,4788,9576,East
+100954,2023-03-16,C2954,Female,37.0,Beauty,Face Moisturizer,1,1590,1590,West
+100955,2023-01-04,C2955,Male,36.0,Groceries,Basmati Rice 5kg,1,951,951,South
+100956,2024-10-07,C2956,Female,49.0,Electronics,Smartphone Case,2,2482,4964,North
+100957,2023-04-28,C2957,Male,19.0,Clothing,Winter Jacket,1,1884,1884,West
+100958,2024-08-28,C2958,Male,34.0,Home & Kitchen,Non-stick Pan,1,1226,1226,South
+100959,2024-05-18,C2959,Female,39.0,Clothing,Formal Shirt,2,2721,5442,North
+100960,2024-07-27,C2960,Female,19.0,Clothing,Men's T-Shirt,1,2236,2236,West
+100961,2024-03-16,C2961,Male,29.0,Home & Kitchen,Ceramic Mug Set,2,1492,2984,East
+100962,2023-07-13,C2962,Male,48.0,Beauty,Shampoo 500ml,3,1354,4062,South
+100963,2024-12-15,C2963,Female,34.0,Clothing,Denim Jeans,1,2196,2196,East
+100964,2024-01-27,C2964,Male,36.0,Home & Kitchen,Cotton Bedsheet Set,1,1898,1898,North
+100965,2023-01-26,C2965,Male,28.0,Home & Kitchen,LED Table Lamp,1,917,917,South
+100966,2024-03-10,C2966,Male,37.0,Home & Kitchen,Non-stick Pan,2,708,1416,East
+100967,2023-06-22,C2967,Male,41.0,Electronics,Smartphone Case,1,11376,11376,South
+100968,2023-10-27,C2968,Male,54.0,Clothing,Denim Jeans,2,3326,6652,South
+100969,2024-10-06,C2969,Female,40.0,Electronics,Bluetooth Speaker,1,13471,13471,North
+100970,2023-11-22,C2970,Male,21.0,Electronics,Smartwatch,1,10964,10964,North
+100971,2024-02-14,C2971,Female,43.0,Home & Kitchen,Ceramic Mug Set,1,1437,1437,South
+100972,2023-04-28,C2972,Male,33.0,Electronics,Smartphone Case,1,1356,1356,South
+100973,2024-12-24,C2973,Female,48.0,Clothing,Sneakers,1,971,971,North
+100974,2023-08-13,C2974,Female,52.0,Home & Kitchen,LED Table Lamp,2,1324,2648,North
+100975,2024-06-15,C2975,Male,36.0,Groceries,Cooking Oil 1L,1,550,550,West
+100976,2023-04-23,C2976,Male,31.0,Home & Kitchen,Cotton Bedsheet Set,1,2582,2582,East
+100977,2023-05-20,C2977,Male,50.0,Groceries,Green Tea Box,2,712,1424,West
+100978,2024-07-12,C2978,Female,23.0,Electronics,Smartphone Case,1,8194,8194,South
+100979,2023-01-01,C2979,Male,33.0,Groceries,Almonds 500g,1,839,839,West
+100980,2023-03-31,C2980,Female,39.0,Clothing,Men's T-Shirt,1,3868,3868,South
+100981,2024-10-15,C2981,Female,43.0,Clothing,Men's T-Shirt,1,1164,1164,East
+100982,2023-11-16,C2982,Male,29.0,Electronics,Power Bank,1,10897,10897,East
+100983,2024-07-03,C2983,Female,36.0,Electronics,Smartphone Case,1,14692,14692,West
+100984,2023-05-19,C2984,Male,39.0,Groceries,Instant Noodles Pack,1,335,335,South
+100985,2024-05-25,C2985,Female,19.0,Groceries,Instant Noodles Pack,2,181,362,North
+100986,2023-09-16,C2986,Male,44.0,Electronics,Smartphone Case,1,11936,11936,West
+100987,2024-11-03,C2987,Male,18.0,Home & Kitchen,Ceramic Mug Set,1,3569,3569,East
+100988,2024-11-20,C2988,Male,35.0,Home & Kitchen,Storage Organizer,1,3138,3138,East
+100989,2023-01-10,C2989,Male,18.0,Home & Kitchen,Ceramic Mug Set,1,2778,2778,West
+100990,2023-09-18,C2990,Male,28.0,Clothing,Sneakers,1,3162,3162,North
+100991,2024-10-11,C2991,Male,18.0,Electronics,Smartphone Case,2,14904,29808,North
+100992,2023-06-21,C2992,Male,26.0,Beauty,Lipstick Set,2,1906,3812,West
+100993,2023-01-13,C2993,Female,42.0,Home & Kitchen,Cotton Bedsheet Set,1,4785,4785,South
+100994,2023-06-17,C2994,Male,47.0,Beauty,Sunscreen SPF50,2,322,644,North
+100995,2024-10-03,C2995,Female,37.0,Beauty,Face Moisturizer,1,530,530,West
+100996,2024-08-18,C2996,Male,21.0,Electronics,Smartwatch,2,4353,8706,East
+100997,2023-11-17,C2997,Female,35.0,Electronics,Smartwatch,1,12923,12923,West
+100998,2023-11-15,C2998,Female,32.0,Home & Kitchen,Cotton Bedsheet Set,1,3586,3586,South
+100999,2024-09-04,C2999,Male,54.0,Electronics,Power Bank,1,14624,14624,West
+101000,2023-11-25,C3000,Female,23.0,Electronics,Smartphone Case,4,9824,39296,East
+101001,2024-07-03,C3001,Female,39.0,Groceries,Cooking Oil 1L,2,833,1666,West
+101002,2024-02-23,C3002,Female,18.0,Home & Kitchen,Cotton Bedsheet Set,1,3689,3689,South
+101003,2024-08-28,C3003,Male,27.0,Clothing,Men's T-Shirt,3,2182,6546,West
+101004,2023-04-05,C3004,Female,42.0,Beauty,Face Moisturizer,2,2230,4460,South
+101005,2024-08-03,C3005,Female,37.0,Groceries,Green Tea Box,1,1090,1090,West
+101006,2023-11-14,C3006,Male,44.0,Home & Kitchen,Cotton Bedsheet Set,1,2534,2534,West
+101007,2023-08-24,C3007,Female,35.0,Electronics,Power Bank,1,13855,13855,North
+101008,2023-11-30,C3008,Male,43.0,Clothing,Winter Jacket,1,3549,3549,East
+101009,2024-01-11,C3009,Male,42.0,Beauty,Sunscreen SPF50,1,403,403,East
+101010,2024-04-03,C3010,Male,49.0,Home & Kitchen,Non-stick Pan,1,3583,3583,West
+101011,2023-05-17,C3011,Female,45.0,Clothing,Sneakers,1,2394,2394,South
+101012,2024-08-10,C3012,Female,34.0,Clothing,Women's Dress,3,3724,11172,East
+101013,2024-06-30,C3013,Female,41.0,Clothing,Sneakers,1,1149,1149,South
+101014,2024-05-27,C3014,Female,40.0,Clothing,Men's T-Shirt,1,2055,2055,West
+101015,2023-10-23,C3015,Male,18.0,Beauty,Shampoo 500ml,2,869,1738,South
+101016,2023-11-16,C3016,Female,27.0,Groceries,Instant Noodles Pack,1,831,831,North
+101017,2024-07-25,C3017,Male,46.0,Clothing,Men's T-Shirt,1,2041,2041,South
+101018,2023-12-15,C3018,Female,36.0,Beauty,Sunscreen SPF50,1,1243,1243,South
+101019,2023-08-17,C3019,Male,33.0,Groceries,Instant Noodles Pack,3,1121,3363,East
+101020,2023-09-27,C3020,Female,18.0,Clothing,Winter Jacket,1,2159,2159,West
+101021,2023-10-18,C3021,Female,21.0,Beauty,Lipstick Set,1,689,689,North
+101022,2024-12-25,C3022,Male,21.0,Beauty,Lipstick Set,2,328,656,East
+101023,2023-06-14,C3023,Female,37.0,Clothing,Men's T-Shirt,1,3959,3959,North
+101024,2023-01-05,C3024,Male,39.0,Clothing,Men's T-Shirt,1,2521,2521,North
+101025,2024-01-14,C3025,Female,20.0,Clothing,Winter Jacket,2,3058,6116,South
+101026,2023-03-19,C3026,Female,22.0,Clothing,Men's T-Shirt,1,386,386,South
+101027,2024-02-14,C3027,Female,43.0,Clothing,Women's Dress,1,3954,3954,South
+101028,2024-07-27,C3028,Male,25.0,Groceries,Almonds 500g,2,877,1754,West
+101029,2023-05-12,C3029,Male,18.0,Clothing,Sneakers,1,2238,2238,West
+101030,2024-08-23,C3030,Female,23.0,Beauty,Shampoo 500ml,2,219,438,North
+101031,2023-02-11,C3031,Male,40.0,Home & Kitchen,Ceramic Mug Set,4,3142,12568,South
+101032,2023-03-30,C3032,Female,28.0,Groceries,Almonds 500g,2,93,186,East
+101033,2024-02-06,C3033,Female,18.0,Clothing,Men's T-Shirt,1,2192,2192,East
+101034,2023-10-23,C3034,Female,53.0,Beauty,Shampoo 500ml,1,2165,2165,South
+101035,2023-10-22,C3035,Male,37.0,Home & Kitchen,Storage Organizer,3,4662,13986,South
+101036,2024-09-07,C3036,Male,56.0,Clothing,Winter Jacket,1,1199,1199,North
+101037,2024-06-09,C3037,Female,37.0,Groceries,Basmati Rice 5kg,1,947,947,West
+101038,2024-11-21,C3038,Female,37.0,Electronics,Smartwatch,1,1190,1190,North
+101039,2024-09-28,C3039,Male,24.0,Home & Kitchen,Cotton Bedsheet Set,1,483,483,North
+101040,2024-02-26,C3040,Male,27.0,Electronics,Bluetooth Speaker,1,8702,8702,South
+101041,2023-01-23,C3041,Female,21.0,Electronics,Bluetooth Speaker,2,4167,8334,South
+101042,2024-07-28,C3042,Male,33.0,Beauty,Lipstick Set,1,2190,2190,South
+101043,2023-05-23,C3043,Male,26.0,Groceries,Instant Noodles Pack,2,449,898,West
+101044,2024-10-26,C3044,Male,36.0,Clothing,Formal Shirt,1,2324,2324,South
+101045,2023-05-25,C3045,Male,29.0,Groceries,Basmati Rice 5kg,1,1051,1051,West
+101046,2023-08-13,C3046,Male,28.0,Home & Kitchen,Storage Organizer,1,2134,2134,South
+101047,2024-05-17,C3047,Male,48.0,Groceries,Green Tea Box,1,696,696,North
+101048,2024-09-07,C3048,Male,21.0,Home & Kitchen,Ceramic Mug Set,1,1754,1754,East
+101049,2023-04-14,C3049,Male,21.0,Electronics,Power Bank,2,12544,25088,East
+101050,2023-02-08,C3050,Male,30.0,Clothing,Winter Jacket,1,1201,1201,West
+101051,2023-07-17,C3051,Male,25.0,Groceries,Cooking Oil 1L,1,962,962,North
+101052,2024-10-07,C3052,Male,45.0,Beauty,Lipstick Set,3,1842,5526,West
+101053,2024-08-01,C3053,Male,41.0,Groceries,Almonds 500g,4,732,2928,West
+101054,2024-01-26,C3054,Female,33.0,Clothing,Winter Jacket,4,1963,7852,West
+101055,2023-06-28,C3055,Female,28.0,Groceries,Green Tea Box,1,308,308,South
+101056,2024-07-07,C3056,Female,23.0,Electronics,Wireless Earbuds,1,1096,1096,North
+101057,2024-03-23,C3057,Female,41.0,Home & Kitchen,Storage Organizer,1,2566,2566,South
+101058,2024-05-14,C3058,Male,26.0,Home & Kitchen,Ceramic Mug Set,1,910,910,South
+101059,2023-01-15,C3059,Female,30.0,Electronics,USB-C Cable,1,5560,5560,East
+101060,2024-09-14,C3060,Male,25.0,Electronics,Smartphone Case,1,5174,5174,East
+101061,2024-10-30,C3061,Female,43.0,Electronics,Wireless Earbuds,2,2064,4128,North
+101062,2023-10-16,C3062,Male,33.0,Beauty,Lipstick Set,2,1675,3350,West
+101063,2024-04-22,C3063,Male,44.0,Home & Kitchen,Ceramic Mug Set,1,4204,4204,West
+101064,2023-08-19,C3064,Female,29.0,Electronics,Smartwatch,1,12939,12939,West
+101065,2024-02-24,C3065,Female,30.0,Electronics,Smartphone Case,1,14633,14633,North
+101066,2023-06-06,C3066,Male,42.0,Clothing,Women's Dress,1,2106,2106,South
+101067,2024-07-03,C3067,Male,40.0,Clothing,Winter Jacket,1,1060,1060,East
+101068,2024-03-16,C3068,Female,56.0,Groceries,Instant Noodles Pack,2,182,364,North
+101069,2023-04-07,C3069,Male,43.0,Groceries,Green Tea Box,3,1178,3534,North
+101070,2024-02-15,C3070,Male,30.0,Home & Kitchen,Storage Organizer,1,1627,1627,South
+101071,2023-10-16,C3071,Female,35.0,Clothing,Women's Dress,1,1146,1146,West
+101072,2023-09-11,C3072,Female,50.0,Groceries,Green Tea Box,1,341,341,South
+101073,2023-07-15,C3073,Male,18.0,Home & Kitchen,Storage Organizer,1,3398,3398,East
+101074,2024-08-20,C3074,Male,31.0,Groceries,Green Tea Box,1,820,820,East
+101075,2024-06-05,C3075,Female,19.0,Home & Kitchen,LED Table Lamp,2,3905,7810,West
+101076,2024-05-31,C3076,Female,25.0,Groceries,Basmati Rice 5kg,1,883,883,West
+101077,2024-09-26,C3077,Female,38.0,Electronics,Smartwatch,1,13106,13106,South
+101078,2023-04-28,C3078,Female,37.0,Home & Kitchen,Non-stick Pan,2,3728,7456,South
+101079,2023-06-08,C3079,Female,25.0,Electronics,Power Bank,1,7832,7832,North
+101080,2023-08-16,C3080,Male,29.0,Home & Kitchen,LED Table Lamp,1,4791,4791,South
+101081,2023-08-04,C3081,Male,36.0,Groceries,Green Tea Box,1,1051,1051,South
+101082,2024-11-26,C3082,Male,45.0,Electronics,Smartwatch,3,6297,18891,South
+101083,2023-01-15,C3083,Female,26.0,Electronics,Smartphone Case,2,5767,11534,North
+101084,2023-06-06,C3084,Male,42.0,Home & Kitchen,Cotton Bedsheet Set,2,2205,4410,South
+101085,2024-10-09,C3085,Male,53.0,Clothing,Men's T-Shirt,1,2522,2522,North
+101086,2023-09-18,C3086,Female,27.0,Home & Kitchen,Cotton Bedsheet Set,4,4925,19700,East
+101087,2023-06-06,C3087,Male,26.0,Groceries,Basmati Rice 5kg,1,612,612,North
+101088,2023-02-16,C3088,Female,25.0,Groceries,Basmati Rice 5kg,1,1166,1166,North
+101089,2023-11-20,C3089,Male,28.0,Groceries,Cooking Oil 1L,1,887,887,South
+101090,2024-11-15,C3090,Female,40.0,Electronics,Wireless Earbuds,1,11751,11751,North
+101091,2023-05-10,C3091,Male,18.0,Electronics,Bluetooth Speaker,3,1988,5964,East
+101092,2024-02-15,C3092,Female,25.0,Electronics,Wireless Earbuds,1,5953,5953,North
+101093,2023-04-05,C3093,Female,49.0,Home & Kitchen,Storage Organizer,2,819,1638,North
+101094,2024-09-18,C3094,Male,36.0,Electronics,Wireless Earbuds,1,7480,7480,South
+101095,2023-10-19,C3095,Female,23.0,Electronics,Power Bank,1,7708,7708,North
+101096,2023-10-10,C3096,Female,39.0,Beauty,Shampoo 500ml,3,1619,4857,East
+101097,2023-03-10,C3097,Female,25.0,Electronics,Power Bank,1,11438,11438,North
+101098,2024-10-21,C3098,Female,24.0,Beauty,Shampoo 500ml,2,2065,4130,North
+101099,2023-01-11,C3099,Female,41.0,Groceries,Basmati Rice 5kg,4,569,2276,North
+101100,2023-09-11,C3100,Male,52.0,Electronics,Smartphone Case,3,11659,34977,South
+101101,2024-07-03,C3101,Female,50.0,Home & Kitchen,Storage Organizer,1,3655,3655,North
+101102,2023-05-14,C3102,Male,20.0,Groceries,Almonds 500g,2,144,288,North
+101103,2024-12-12,C3103,Female,38.0,Electronics,Bluetooth Speaker,1,1425,1425,North
+101104,2023-01-23,C3104,Male,49.0,Groceries,Cooking Oil 1L,1,304,304,North
+101105,2023-12-12,C3105,Female,30.0,Beauty,Perfume 100ml,2,1351,2702,West
+101106,2023-10-29,C3106,Female,42.0,Electronics,Smartwatch,1,5867,5867,East
+101107,2023-12-29,C3107,Female,41.0,Groceries,Cooking Oil 1L,1,195,195,West
+101108,2024-01-31,C3108,Male,40.0,Clothing,Men's T-Shirt,2,1815,3630,East
+101109,2023-08-06,C3109,Female,18.0,Electronics,Power Bank,1,10507,10507,West
+101110,2023-05-21,C3110,Male,18.0,Electronics,Smartwatch,1,8365,8365,South
+101111,2024-09-07,C3111,Female,,Electronics,Wireless Earbuds,1,11257,11257,South
+101112,2023-07-29,C3112,Male,40.0,Electronics,Smartphone Case,4,14142,56568,North
+101113,2024-09-14,C3113,Female,38.0,Clothing,Denim Jeans,2,3957,7914,North
+101114,2024-09-07,C3114,Male,38.0,Clothing,Denim Jeans,2,456,912,North
+101115,2024-11-13,C3115,Female,29.0,Electronics,Smartwatch,1,11939,11939,South
+101116,2024-04-04,C3116,Female,42.0,Home & Kitchen,Cotton Bedsheet Set,1,4653,4653,South
+101117,2023-12-22,C3117,Male,59.0,Clothing,Denim Jeans,1,2574,2574,South
+101118,2023-11-20,C3118,Male,38.0,Clothing,Denim Jeans,1,3036,3036,South
+101119,2023-05-13,C3119,Female,33.0,Beauty,Shampoo 500ml,3,429,1287,East
+101120,2023-05-07,C3120,Male,42.0,Home & Kitchen,Cotton Bedsheet Set,1,1953,1953,East
+101121,2023-04-16,C3121,Male,33.0,Beauty,Sunscreen SPF50,1,1564,1564,North
+101122,2024-08-26,C3122,Female,42.0,Electronics,Bluetooth Speaker,1,1554,1554,West
+101123,2024-01-13,C3123,Male,42.0,Groceries,Green Tea Box,2,180,360,South
+101124,2023-02-20,C3124,Female,44.0,Beauty,Lipstick Set,1,784,784,North
+101125,2023-01-29,C3125,Male,22.0,Groceries,Instant Noodles Pack,1,60,60,North
+101126,2024-04-06,C3126,Male,43.0,Clothing,Winter Jacket,1,686,686,North
+101127,2023-10-23,C3127,Female,47.0,Home & Kitchen,Ceramic Mug Set,2,1974,3948,North
+101128,2023-10-24,C3128,Female,48.0,Groceries,Basmati Rice 5kg,2,184,368,West
+101129,2024-12-26,C3129,Female,42.0,Groceries,Basmati Rice 5kg,1,137,137,South
+101130,2024-02-11,C3130,Female,30.0,Groceries,Basmati Rice 5kg,1,748,748,East
+101131,2024-09-04,C3131,Male,27.0,Groceries,Basmati Rice 5kg,1,833,833,North
+101132,2024-02-09,C3132,Female,35.0,Groceries,Instant Noodles Pack,2,1067,2134,West
+101133,2023-12-12,C3133,Female,33.0,Home & Kitchen,Storage Organizer,1,3009,3009,North
+101134,2024-09-13,C3134,Female,29.0,Electronics,USB-C Cable,2,4295,8590,South
+101135,2024-02-24,C3135,Male,41.0,Clothing,Men's T-Shirt,1,558,558,South
+101136,2023-07-01,C3136,Female,31.0,Clothing,Women's Dress,2,1958,3916,North
+101137,2023-01-01,C3137,Male,39.0,Beauty,Lipstick Set,1,1733,1733,South
+101138,2024-07-20,C3138,Male,31.0,Electronics,Power Bank,1,9835,9835,South
+101139,2024-01-06,C3139,Female,21.0,Electronics,Wireless Earbuds,1,7476,7476,East
+101140,2024-10-22,C3140,Female,18.0,Groceries,Instant Noodles Pack,1,604,604,North
+101141,2024-03-06,C3141,Female,39.0,Groceries,Almonds 500g,2,914,1828,East
+101142,2023-11-05,C3142,Female,18.0,Home & Kitchen,Cotton Bedsheet Set,1,1225,1225,North
+101143,2023-05-17,C3143,Male,18.0,Groceries,Instant Noodles Pack,1,320,320,East
+101144,2023-07-21,C3144,Female,39.0,Electronics,USB-C Cable,2,892,1784,East
+101145,2024-03-11,C3145,Male,33.0,Home & Kitchen,Cotton Bedsheet Set,1,2942,2942,South
+101146,2023-11-09,C3146,Male,23.0,Clothing,Formal Shirt,1,1578,1578,South
+101147,2023-04-27,C3147,Male,39.0,Electronics,Smartphone Case,1,8296,8296,North
+101148,2024-10-27,C3148,Female,24.0,Home & Kitchen,LED Table Lamp,2,2110,4220,East
+101149,2024-07-28,C3149,Female,29.0,Beauty,Sunscreen SPF50,2,1936,3872,North
+101150,2023-09-01,C3150,Female,41.0,Clothing,Men's T-Shirt,2,2117,4234,West
+101151,2024-06-20,C3151,Female,40.0,Clothing,Formal Shirt,2,404,808,North
+101152,2024-08-24,C3152,Male,47.0,Clothing,Sneakers,1,2093,2093,North
+101153,2023-03-16,C3153,Male,34.0,Beauty,Sunscreen SPF50,1,2095,2095,East
+101154,2024-01-21,C3154,Female,36.0,Beauty,Sunscreen SPF50,1,1301,1301,West
+101155,2023-07-29,C3155,Male,48.0,Clothing,Denim Jeans,1,1062,1062,South
+101156,2024-04-19,C3156,Male,35.0,Beauty,Face Moisturizer,1,247,247,South
+101157,2024-02-22,C3157,Female,41.0,Beauty,Perfume 100ml,1,1217,1217,South
+101158,2023-12-13,C3158,Female,39.0,Clothing,Winter Jacket,1,1979,1979,North
+101159,2024-06-12,C3159,Male,33.0,Groceries,Green Tea Box,1,571,571,North
+101160,2024-10-01,C3160,Male,66.0,Beauty,Lipstick Set,2,1713,3426,North
+101161,2023-06-28,C3161,Female,42.0,Electronics,Smartphone Case,1,10864,10864,North
+101162,2023-07-01,C3162,Female,44.0,Electronics,Power Bank,4,11983,47932,South
+101163,2024-10-25,C3163,Male,18.0,Electronics,Power Bank,1,3200,3200,East
+101164,2023-01-25,C3164,Male,21.0,Electronics,Bluetooth Speaker,1,4336,4336,South
+101165,2023-06-29,C3165,Female,18.0,Beauty,Face Moisturizer,1,257,257,East
+101166,2024-12-10,C3166,Female,44.0,Clothing,Formal Shirt,1,3984,3984,South
+101167,2024-05-15,C3167,Female,20.0,Groceries,Basmati Rice 5kg,1,898,898,East
+101168,2023-06-10,C3168,Male,27.0,Home & Kitchen,Storage Organizer,2,1068,2136,South
+101169,2023-06-26,C3169,Female,20.0,Electronics,Smartphone Case,1,5343,5343,South
+101170,2023-10-12,C3170,Male,25.0,Clothing,Women's Dress,1,819,819,South
+101171,2023-03-04,C3171,Female,28.0,Electronics,Power Bank,1,7775,7775,East
+101172,2024-10-23,C3172,Female,40.0,Clothing,Men's T-Shirt,1,1837,1837,West
+101173,2024-10-27,C3173,Female,26.0,Clothing,Denim Jeans,1,931,931,South
+101174,2023-06-05,C3174,Male,40.0,Home & Kitchen,Ceramic Mug Set,2,4205,8410,North
+101175,2024-04-13,C3175,Male,40.0,Clothing,Men's T-Shirt,3,2826,8478,South
+101176,2023-02-18,C3176,Male,44.0,Clothing,Formal Shirt,1,1157,1157,South
+101177,2023-03-25,C3177,Female,25.0,Home & Kitchen,Storage Organizer,1,790,790,South
+101178,2023-12-27,C3178,Male,34.0,Clothing,Denim Jeans,1,1163,1163,East
+101179,2024-11-19,C3179,Female,39.0,Clothing,Winter Jacket,1,3839,3839,North
+101180,2023-05-28,C3180,Male,,Clothing,Denim Jeans,1,3735,3735,South
+101181,2024-09-21,C3181,Female,37.0,Electronics,Wireless Earbuds,1,7835,7835,East
+101182,2023-12-08,C3182,Male,35.0,Electronics,Smartwatch,1,1088,1088,South
+101183,2024-04-20,C3183,Male,31.0,Clothing,Sneakers,1,2417,2417,North
+101184,2023-03-04,C3184,Female,37.0,Groceries,Cooking Oil 1L,1,94,94,North
+101185,2024-12-01,C3185,Female,46.0,Beauty,Lipstick Set,3,1109,3327,East
+101186,2023-12-26,C3186,Male,34.0,Groceries,Basmati Rice 5kg,1,527,527,West
+101187,2024-07-14,C3187,Female,19.0,Beauty,Lipstick Set,3,1515,4545,North
+101188,2023-11-23,C3188,Male,40.0,Groceries,Instant Noodles Pack,1,794,794,West
+101189,2023-05-21,C3189,Female,28.0,Home & Kitchen,Cotton Bedsheet Set,2,1089,2178,East
+101190,2023-08-03,C3190,Male,35.0,Clothing,Denim Jeans,2,986,1972,North
+101191,2024-03-10,C3191,Female,43.0,Home & Kitchen,Ceramic Mug Set,2,4707,9414,West
+101192,2024-12-23,C3192,Male,18.0,Beauty,Perfume 100ml,2,891,1782,North
+101193,2023-11-14,C3193,Male,18.0,Clothing,Denim Jeans,4,843,3372,East
+101194,2023-02-01,C3194,Female,41.0,Clothing,Formal Shirt,3,2368,7104,West
+101195,2024-10-31,C3195,Female,31.0,Home & Kitchen,Cotton Bedsheet Set,1,327,327,East
+101196,2023-10-12,C3196,Female,30.0,Beauty,Lipstick Set,1,1996,1996,North
+101197,2023-11-01,C3197,Male,38.0,Clothing,Men's T-Shirt,4,3127,12508,East
+101198,2024-03-04,C3198,Female,46.0,Beauty,Shampoo 500ml,1,1445,1445,South
+101199,2024-04-21,C3199,Male,37.0,Electronics,Power Bank,1,12289,12289,North
+100199,2024-05-11,C2199,Female,38.0,Clothing,Denim Jeans,2,1598,3196,North
+100572,2024-01-02,C2572,Female,45.0,Clothing,Winter Jacket,1,3720,3720,South
+101058,2024-05-14,C3058,Male,26.0,Home & Kitchen,Ceramic Mug Set,1,910,910,South
+100762,2023-02-03,C2762,Female,20.0,Electronics,Smartphone Case,1,10648,10648,East
+100389,2024-11-15,C2389,Male,43.0,Home & Kitchen,Cotton Bedsheet Set,1,339,339,North
+100969,2024-10-06,C2969,Female,40.0,Electronics,Bluetooth Speaker,1,13471,13471,North
+100747,2024-11-07,C2747,Female,18.0,Groceries,Cooking Oil 1L,1,707,707,South
+100097,2023-01-15,C2097,Female,50.0,Clothing,Denim Jeans,1,2216,2216,South
