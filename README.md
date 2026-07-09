@@ -1,6 +1,6 @@
 # Data Analytics — Level 1, Task 1: EDA on Retail Sales Data
 
-**Intern:** [Your Full Name]
+**Intern:** Yogitha M
 **Track:** Data Analytics
 **Task:** Level 1 — Task 1 — Exploratory Data Analysis on Retail Sales Data
 
